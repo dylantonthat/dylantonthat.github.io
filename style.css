@@ -1,0 +1,361 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    font-family: 'Lato, sans-serif';
+    box-sizing: border-box;
+}
+
+html
+{
+    scroll-behavior: smooth;
+}
+
+body
+{
+    background: whitesmoke;
+    color: black; /*sets text at the beginning to be black*/
+    overflow-x: hidden; /*hides horizontal scroll*/
+}
+
+#home
+{
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    background: white;
+}
+
+.container
+{
+    padding: 10px 5%;
+}
+
+.logoImage
+{
+    width: 200px;
+}
+
+nav
+{
+    display: flex;
+    width: 84%;
+    margin: auto;
+    padding: 20px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+nav ul li
+{
+    text-decoration: none;
+    color: black;
+    font-weight: bolder;
+
+}
+
+nav ul li
+{
+    display: inline-block;
+    list-style: none;
+    margin: 10px 20px;
+}
+
+/*hover over (home, about, resume, etc.) to get underline*/
+nav ul li a
+{
+    text-decoration: none;
+    color:black;
+    font-weight: bold;
+}
+
+nav ul li a:hover
+{
+    text-decoration: underline;
+} 
+
+
+/*spacing between sections is mostly about the PADDING*/
+
+.home-text h1
+{
+    font-size: 60px;
+    padding: 15px 0;
+    color: black;
+    margin-top: 20px;
+    position: relative;
+    left: 100px;
+}
+
+.home-text h1 span
+{
+    color: #74c9ed;
+}
+
+.home-text h1 span2
+{
+    color: #143156;
+}
+
+.home-text h2
+{
+    font-size: 30px;
+    padding: 5px 0;
+    color: black;
+    margin-top: 20px;
+    position: relative;
+    left: 140px;
+}
+
+.home-text h3
+{
+    font-size: 18px;
+    padding: 5px 0;
+    color: black;
+    margin-top: 20px;
+    position: relative;
+    left: 130px;
+}
+
+
+.home-text h4
+{  
+    padding: 10px 0;
+    margin-top: 20px;
+    left: 100px;
+    margin-left: 15%;
+    font-size: 20px;
+}
+.email:hover
+{
+    text-decoration: underline;
+}
+
+.home-text h5
+{    
+    left: 100px;
+    margin-left: 15%;
+    font-size: 20px;
+}
+.linkedin:hover
+{
+    text-decoration: underline;
+}
+
+.home-text h6
+{    
+    left: 100px;
+    margin-left: 15%;
+    font-size: 20px;
+}
+.github:hover
+{
+    text-decoration: underline;
+}
+
+.images
+{
+    width: 40%;
+    height: 75%;
+    position: relative;
+
+    margin-top: 100px;
+    margin-left: 750px;
+}
+.images img
+{
+    position: absolute;
+    left: 50%;
+    bottom: 0;
+    transform: translateX(-50%);
+    transition: bottom 1s, left 1s;
+
+}
+
+.ProfilePicture:hover
+{
+    bottom: 40px;
+}
+
+.blob:hover
+{
+    left: 45%;
+}
+
+
+
+/* About Me */
+
+#about
+{
+    padding: 35px 0;
+    color: black;
+}
+
+.row
+{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.aboutMe
+{
+    flex-basis: 35%;
+}
+
+
+.aboutMe img
+{
+    width: 100%;
+    border-radius: 50px;
+}
+
+.aboutMeSubtitle
+{
+    flex-basis: 60%;
+    font-size: 60px;
+    color: black;
+}
+
+.aboutMeSubtitle span
+{
+    color: #74c9ed;
+}
+
+.aboutMeSubtitle span2
+{
+    color:#143156;
+}
+
+.aboutMe-Description
+{
+    flex-basis: 60%;
+    line-height: 3.5;
+}
+
+
+
+/* resume button */
+
+.resumeSubtitle
+{
+    text-align: center;
+}
+ 
+.aboutMe-Description a
+{    
+    margin-left: 350px;
+    text-decoration: none;
+    font-size: 30px;
+    font-weight: bold;
+    color:#143156;
+    background-color: #74c9ed;
+    width: 50px;
+    text-align: center;
+    border-radius: 15px;
+}
+
+.aboutMe-Description a:hover
+{
+    background-color: #add8e6;
+}
+
+
+
+
+
+/* Education */
+
+#education
+{
+    padding: 20px;
+    line-height: 2.0;
+    
+}
+
+.educationPicture
+{
+    padding: 50px;
+    float: right;
+}
+
+.educationSubtitle
+{
+    font-size: 60px;
+}
+
+.educationSubtitle span
+{
+    color:#74c9ed;
+}
+
+.educationSubtitle span2
+{
+    color:#143156;
+}
+
+.dates
+{
+    font-size: 15px;
+}
+
+.courseworkSubtitle
+{
+    font-size: 30px;
+}
+
+
+/*My Portfolio */
+
+#portfolio
+{ 
+    padding: 75px 0;
+    left: 25px;
+    line-height: 2.0;
+}
+
+.portfolioSubtitle 
+{
+    font-size: 60px;
+
+}
+
+.portfolioSubtitle span
+{
+    color:#74c9ed;
+}
+
+.portfolioSubtitle span2
+{
+    color:#143156;
+}
+
+.portfolioList
+{
+    display: grid;
+    margin-top: 50px;
+}
+.portfolio
+{
+    border-radius: 15px;
+    position: relative;
+    overflow: hidden;
+}
+
+.blackjackTitle
+{
+    font-size: 25px;
+}
+
+.blackjackTitle:hover
+{
+    text-decoration: underline;
+} 
+
+.portfolio img
+{
+   width: 75%;
+   border-radius: 15px; /* makes image rounded */
+   display: block; 
+}

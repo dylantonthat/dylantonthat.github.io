@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <!--for font-->
+    <link href='https://fonts.googleapis.com/css?family=Lato:400,700' rel='stylesheet' type='text/css'>
+
+    <title>Portfolio Website</title>
+    <link rel = "stylesheet" href = "style.css">
+</head>
+<body>
+<!---- HEADERS AND LANDING TEXT AND IMAGES, anchors made for (header, about, education, etc.) to allow for autoscroll when clicking ------->
+<div id = "header">
+    <div class = "container" >
+        <nav>
+            <img src = "dylan-logo.png" class ="logoImage"> 
+            <ul>
+                <li><a href="#home">Home</a></li>
+
+                <li><a href="#about">About</a></li>
+
+                <li><a href="#education">Education</a></li>
+
+                <li><a href="#portfolio">Portfolio</a></li>
+
+
+
+            </ul>
+        </nav>
+
+        <!---- QUICK LANDING HEADER TEXT CODE------->
+        <div class = "home-text">
+            <h1>
+                <br>    
+                <span>Dylan</span> <span2>Ton-That</span2>
+            </h1>
+            <h2>
+                CS UG @ ADHC in NJIT
+            </h2>
+
+            <h3>
+                <br>
+                Feel free to contact me through my socials!
+            </h3>
+
+            <h4>
+                <a href = "mailto: dkt5@njit.edu" style="text-decoration:none;">
+                    <ion-icon name="mail-outline"></ion-icon>               
+                    <span class = "email"> dkt5@njit.edu </span>   
+                </a>    
+            </h4>
+
+            <h5>
+                <br>
+                <a href = "https://www.linkedin.com/in/dylan-ton-that/" style="text-decoration:none;">
+                    <ion-icon name="logo-linkedin"></ion-icon>
+                    <span class = "linkedin"> Linkedin </span>
+                </a>
+            </h5>
+            <h6>
+                <br>               
+                <a href = "https://github.com/dylantonthat" style="text-decoration:none;">
+                    <ion-icon name="logo-github"></ion-icon>
+                    <span class = "github"> Github </span>
+                    <br>
+                </a>
+            </h6>
+        </div>
+        <!---- LANDING IMAGES CODE WITH HOVER (Blob and Main picture of me------>
+        <div class = "images">
+            <img src = "blob.png" class = "blob">
+            <img src = "blobPic.png" class = "ProfilePicture">
+        </div>
+    </div>
+</div>
+
+
+<!---- ABOUT SECTION CODE, includes second picture of me ------->
+<div id = "about">
+    <div class = "container">
+        <div class = "row">
+            <div class = "aboutMe">
+                <br>
+                <img src = "aboutMePic.jpeg">
+            </div>
+            <div class = "aboutMe-Description">
+                <h1 class= "aboutMeSubtitle"><span>About </span> <span2>Me</span2></h1>
+                <p>
+                    My name is Dylan Ton-That. I am currently an accredited sophomore studying Computer Science. 
+                    <br> 
+                    I am currently seeking related internships in the line of information technology as I seek to further hone my current abilities,
+                    become familiar with industry practices, and am eagar to soak in as much related knowledge as I can.
+                    <br>
+                    <h2 class= "resumeSubtitle"> My resume is attached below:</h2> 
+                    </h2>
+                    <a href = "ResumeApril2023.pdf">Download</a>
+                </p>
+                <br>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div id = "education">
+    <div class = "container">
+        <div class = "educationPicture">
+            <br>
+            <br>
+            <img src = "njit-logo.png">
+        </div>
+        <div class = "edu-background">
+            <h1 class="educationSubtitle"><span>My </span> <span2>Education</span2></h1>
+            <h2 class="njit"> Computer Science B.S. - New Jersey Institute of Technology </h2>
+            <h3 class="dates">Sept 2022 - Dec 2025 (expected)</h3>
+            <br>
+            <li>Full Ride at the Albert Dorman Honors College</li>
+            <li>GPA 4.0 / 4.0, Dean's List</li>
+            <br>
+
+            <h1 class="courseworkSubtitle">Applicable Course Work</h1>
+
+            <li>Algorithms and Data Structures</li>
+            <li>Computers, Society, and Ethics</li>
+            <li>Introduction to Java</li>
+            <li>Roadmap to Computing</li>
+            <li>Probability and Statistics</li>
+            <li>Differential, Integral Calculus</li>
+
+        </div>
+    </div>
+
+</div>
+
+
+
+
+<!-- portfolio part of website, includes projects + description -->
+<div id="portfolio">
+    <div class="container">
+        <h1 class = "portfolioSubtitle"> <span>My </span> <span2>Portfolio</span2>  </h1>
+        <div class="PortfolioList">
+            <div class="portfolio">
+                <a href = "https://github.com/dylantonthat/OnePlayerBlackjack" style="text-decoration:none;">
+                    <span class = "blackjackTitle"> One Player BlackJack (2022) </span>
+                </a>
+                <img src = "blackjackPicture.png">
+                <br>
+                <div class = "layer">
+                    <p>
+                        <li>Built a Blackjack interface that allows for one player to engage in as many hands as they so please with the dealer </li>
+                        <li>Implemented Card, Hand, Shoe classes to create a shuffled deck of cards, read card values, and deal hands </li>
+                        <li>Incorporated BlackjackFunctions class to apply the many rules of blackjack to the dealer and player, alongside retrieving bets and payouts </li>
+                        <li>BlackjackTrainer developed to help players choose the mathematically best move as each game develops (limited to hit, double, stand)</li>
+                        <li>BlackjackUI produced to set interactive user interface, allows user to play as many games as they want/or until funds are extinguished</li>
+                    </p> 
+                </div>
+            </div>
+        </div>
+            
+    </div>
+
+</div>
+
+<!-- to allow for linkedin and github icons-->
+<script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
+<script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
+
+</body>
+</html>
