@@ -79,7 +79,7 @@ nav ul li a:hover
 
 .home-text h1
 {
-    font-size: x-large;
+    font-size: xx-large;
     padding: 1.4vh 0;
     color: black;
     margin-top: 2vh;
@@ -215,7 +215,7 @@ nav ul li a:hover
 .aboutMeSubtitle
 {
     flex-basis: 60vw;
-    font-size: x-large;
+    font-size: xx-large;
     color: black;
 }
 
@@ -283,7 +283,7 @@ nav ul li a:hover
 
 .educationSubtitle
 {
-    font-size: x-large;
+    font-size: xx-large;
 }
 
 .educationSubtitle span
@@ -318,7 +318,7 @@ nav ul li a:hover
 
 .portfolioSubtitle 
 {
-    font-size: x-large;
+    font-size: xx-large;
 
 }
 
