@@ -208,7 +208,8 @@ nav ul li a:hover
 
 .aboutMe img
 {
-    width: auto;
+    height: 50vh;
+    width: 50vw;
     border-radius: 50px;
 }
 
