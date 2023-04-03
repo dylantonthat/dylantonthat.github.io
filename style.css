@@ -104,20 +104,8 @@ nav ul li a:hover
     color: black;
     margin-top: 2%;
     position: relative;
-    left: 7.3vw;
+    left: 7.5vw;
 }
-
-.home-text h3
-{
-    font-size: 1.25vw;
-    padding: 0.25vh 0;
-    color: black;
-    margin-top: 2vh;
-    position: relative;
-    left: 6.8vw;
-
-}
-
 
 .home-text h4
 {  
