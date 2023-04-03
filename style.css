@@ -99,7 +99,7 @@ nav ul li a:hover
 
 .home-text h2
 {
-    font-size: 3vw;
+    font-size: 2.5vw;
     padding: 0.5vh 0;
     color: black;
     margin-top: 2%;
@@ -207,9 +207,9 @@ nav ul li a:hover
 
 .aboutMe img
 {
-    height: 50vh;
-    width: 50vw;
-    border-radius: 50px;
+    height: 75vh;
+    width: 40vw;
+    border-radius: 25px;
 }
 
 .aboutMeSubtitle
