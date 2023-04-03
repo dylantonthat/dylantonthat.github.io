@@ -148,7 +148,7 @@ nav ul li a:hover
 
 .images img
 {
-    margin: 15vh 10vw;
+    margin: 20px;
     height: 35vh;
     width: 35vw;
 
@@ -211,8 +211,8 @@ nav ul li a:hover
 
 .aboutMe img
 {
-    height: 75vh;
-    width: 35vw;
+    height: 90vh;
+    width: 30vw;
     border-radius: 25px;
 }
 
