@@ -107,7 +107,7 @@ nav ul li a:hover
     left: 7.5vw;
 }
 
-.home-text h4
+.home-text h3
 {  
     left: 5vw;
     padding: 1vh 0;
@@ -120,7 +120,7 @@ nav ul li a:hover
     text-decoration: underline;
 }
 
-.home-text h5
+.home-text h4
 {    
     left: 5vw;
     margin-left: 15vw;
@@ -131,7 +131,7 @@ nav ul li a:hover
     text-decoration: underline;
 }
 
-.home-text h6
+.home-text h5
 {    
     left: 5vw;
     margin-left: 15vw;
