@@ -79,7 +79,7 @@ nav ul li a:hover
 
 .home-text h1
 {
-    font-size: 3vw;
+    font-size: 6vw;
     padding: 1.4vh 0;
     color: black;
     margin-top: 2vh;
@@ -99,7 +99,7 @@ nav ul li a:hover
 
 .home-text h2
 {
-    font-size: 1.6vw;
+    font-size: 3vw;
     padding: 0.5vh 0;
     color: black;
     margin-top: 2%;
@@ -109,7 +109,7 @@ nav ul li a:hover
 
 .home-text h3
 {
-    font-size: 1vw;
+    font-size: 2vw;
     padding: 0.25vh 0;
     color: black;
     margin-top: 2vh;
@@ -125,7 +125,7 @@ nav ul li a:hover
     padding: 1vh 0;
     margin-top: 2vh;
     margin-left: 15vw;
-    font-size: 1vw;
+    font-size: 2vw;
 }
 .email:hover
 {
@@ -136,7 +136,7 @@ nav ul li a:hover
 {    
     left: 5vw;
     margin-left: 15vw;
-    font-size: 1vw;
+    font-size: 2vw;
 }
 .linkedin:hover
 {
@@ -147,7 +147,7 @@ nav ul li a:hover
 {    
     left: 5vw;
     margin-left: 15vw;
-    font-size: 1vw;
+    font-size: 2vw;
 }
 .github:hover
 {
