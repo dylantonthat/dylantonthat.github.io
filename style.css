@@ -123,6 +123,8 @@ nav ul li a:hover
 .home-text h4
 {    
     left: 5vw;
+    padding: 1vh 0;
+
     margin-left: 15vw;
     font-size: 1vw;
 }
@@ -134,6 +136,8 @@ nav ul li a:hover
 .home-text h5
 {    
     left: 5vw;
+    padding: 1vh 0;
+
     margin-left: 15vw;
     font-size: 1vw;
 }
