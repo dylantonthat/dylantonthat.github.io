@@ -156,6 +156,8 @@ nav ul li a:hover
 
 .blob
 {
+    height: fit-content;
+    width: fit-content;
 
 }
 
