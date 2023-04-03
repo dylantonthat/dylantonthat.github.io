@@ -149,8 +149,8 @@ nav ul li a:hover
 .images img
 {
     margin: 20px;
-    height: 35vh;
-    width: 35vw;
+    height: 75vh;
+    width: 50vw;
 
 }
 
@@ -192,7 +192,7 @@ nav ul li a:hover
 
 #about
 {
-    padding: 5vh 0;
+    padding: 10vh 0;
     color: black;
 }
 
