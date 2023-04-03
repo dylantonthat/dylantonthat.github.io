@@ -277,6 +277,8 @@ nav ul li a:hover
 
 .educationPicture
 {
+    width: 100vw;
+    height: 100vh;
     padding: 4.7vh;
     float: right;
 }
