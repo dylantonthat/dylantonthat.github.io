@@ -13,7 +13,7 @@ html
 
 body
 {
-    background: whitesmoke;
+    background: #f4ede6;
     color: black; /*sets text at the beginning to be black*/
     overflow-x: hidden; /*hides horizontal scroll*/
 }
@@ -156,7 +156,7 @@ nav ul li a:hover
 
 .blob
 {
-    
+
 }
 
 /*
