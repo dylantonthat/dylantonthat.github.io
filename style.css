@@ -154,10 +154,10 @@ nav ul li a:hover
     text-decoration: underline;
 }
 
-.blob
+.images img
 {
-    height: min-content;
-    width: min-content;
+    height: 35vh;
+    width: 35vw;
 
 }
 
