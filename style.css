@@ -286,11 +286,14 @@ nav ul li a:hover
 .educationSubtitle
 {
     font-size: 3vw;
+    clear: right;
+
 }
 
 .educationSubtitle span
 {
     color:#74c9ed;
+    
 }
 
 .educationSubtitle span2
@@ -306,6 +309,8 @@ nav ul li a:hover
 .courseworkSubtitle
 {
     font-size: medium;
+    clear: right;
+
 }
 
 
