@@ -28,12 +28,12 @@ body
 
 .container
 {
-    padding: 10px 5%;
+    padding: 1% 5%;
 }
 
 .logoImage
 {
-    width: 200px;
+    width: 10%;
 }
 
 nav
@@ -41,7 +41,7 @@ nav
     display: flex;
     width: 84%;
     margin: auto;
-    padding: 20px;
+    padding: 2%;
     align-items: center;
     justify-content: space-between;
 }
@@ -58,7 +58,7 @@ nav ul li
 {
     display: inline-block;
     list-style: none;
-    margin: 10px 20px;
+    margin: 1% 1%;
 }
 
 /*hover over (home, about, resume, etc.) to get underline*/
@@ -79,12 +79,12 @@ nav ul li a:hover
 
 .home-text h1
 {
-    font-size: 60px;
-    padding: 15px 0;
+    font-size: x-large;
+    padding: 1.4% 0;
     color: black;
-    margin-top: 20px;
+    margin-top: 2%;
     position: relative;
-    left: 100px;
+    left: 5%;
 }
 
 .home-text h1 span
@@ -99,32 +99,33 @@ nav ul li a:hover
 
 .home-text h2
 {
-    font-size: 30px;
-    padding: 5px 0;
+    font-size: medium;
+    padding: 0.5% 0;
     color: black;
-    margin-top: 20px;
+    margin-top: 2%;
     position: relative;
-    left: 140px;
+    left: 7.3%;
 }
 
 .home-text h3
 {
-    font-size: 18px;
-    padding: 5px 0;
+    padding: 0.25% 0;
     color: black;
-    margin-top: 20px;
+    margin-top: 2%;
     position: relative;
-    left: 130px;
+    left: 6.8%;
+    font-size: small;
+
 }
 
 
 .home-text h4
 {  
-    padding: 10px 0;
-    margin-top: 20px;
-    left: 100px;
+    left: 5%;
+    padding: 1% 0;
+    margin-top: 2%;
     margin-left: 15%;
-    font-size: 20px;
+    font-size: small;
 }
 .email:hover
 {
@@ -133,9 +134,9 @@ nav ul li a:hover
 
 .home-text h5
 {    
-    left: 100px;
+    left: 5%;
     margin-left: 15%;
-    font-size: 20px;
+    font-size: small;
 }
 .linkedin:hover
 {
@@ -144,9 +145,9 @@ nav ul li a:hover
 
 .home-text h6
 {    
-    left: 100px;
+    left: 5%;
     margin-left: 15%;
-    font-size: 20px;
+    font-size: small;
 }
 .github:hover
 {
@@ -159,8 +160,8 @@ nav ul li a:hover
     height: 75%;
     position: relative;
 
-    margin-top: 100px;
-    margin-left: 750px;
+    margin-top: 9.3%;
+    margin-left: 38%;
 }
 .images img
 {
@@ -174,7 +175,7 @@ nav ul li a:hover
 
 .ProfilePicture:hover
 {
-    bottom: 40px;
+    bottom: 3.7%;
 }
 
 .blob:hover
@@ -188,7 +189,7 @@ nav ul li a:hover
 
 #about
 {
-    padding: 35px 0;
+    padding: 1.8% 0;
     color: black;
 }
 
@@ -214,7 +215,7 @@ nav ul li a:hover
 .aboutMeSubtitle
 {
     flex-basis: 60%;
-    font-size: 60px;
+    font-size: x-large;
     color: black;
 }
 
@@ -231,7 +232,7 @@ nav ul li a:hover
 .aboutMe-Description
 {
     flex-basis: 60%;
-    line-height: 3.5;
+    line-height: 350%;
 }
 
 
@@ -245,13 +246,13 @@ nav ul li a:hover
  
 .aboutMe-Description a
 {    
-    margin-left: 350px;
+    margin-left: 18%;
     text-decoration: none;
-    font-size: 30px;
+    font-size: medium;
     font-weight: bold;
     color:#143156;
     background-color: #74c9ed;
-    width: 50px;
+    width: 3%;
     text-align: center;
     border-radius: 15px;
 }
@@ -269,20 +270,20 @@ nav ul li a:hover
 
 #education
 {
-    padding: 20px;
-    line-height: 2.0;
+    padding: 2%;
+    line-height: 200%;
     
 }
 
 .educationPicture
 {
-    padding: 50px;
+    padding: 4.7%;
     float: right;
 }
 
 .educationSubtitle
 {
-    font-size: 60px;
+    font-size: x-large;
 }
 
 .educationSubtitle span
@@ -297,12 +298,12 @@ nav ul li a:hover
 
 .dates
 {
-    font-size: 15px;
+    font-size: x-small;
 }
 
 .courseworkSubtitle
 {
-    font-size: 30px;
+    font-size: medium;
 }
 
 
@@ -310,14 +311,14 @@ nav ul li a:hover
 
 #portfolio
 { 
-    padding: 75px 0;
-    left: 25px;
-    line-height: 2.0;
+    padding: 7% 0;
+    left: 1.3%;
+    line-height: 200%;
 }
 
 .portfolioSubtitle 
 {
-    font-size: 60px;
+    font-size: x-large;
 
 }
 
@@ -334,7 +335,7 @@ nav ul li a:hover
 .portfolioList
 {
     display: grid;
-    margin-top: 50px;
+    margin-top: 4.6%;
 }
 .portfolio
 {
@@ -345,7 +346,7 @@ nav ul li a:hover
 
 .blackjackTitle
 {
-    font-size: 25px;
+    font-size: smaller;
 }
 
 .blackjackTitle:hover
