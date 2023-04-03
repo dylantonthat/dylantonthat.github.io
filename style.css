@@ -109,7 +109,7 @@ nav ul li a:hover
 
 .home-text h3
 {
-    font-size: 2vw;
+    font-size: 1.25vw;
     padding: 0.25vh 0;
     color: black;
     margin-top: 2vh;
@@ -156,8 +156,8 @@ nav ul li a:hover
 
 .blob
 {
-    height: 35vh;
-    width: 35vw;
+    height: min-content;
+    width: min-content;
 
 }
 
