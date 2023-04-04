@@ -13,8 +13,8 @@ html
 
 body
 {
-    background: black;
-    color: whitesmoke; /*sets text at the beginning to be black*/
+    background: white;
+    color: black; /*sets text at the beginning to be black*/
     overflow-x: hidden; /*hides horizontal scroll*/
 }
 
