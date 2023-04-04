@@ -194,37 +194,6 @@ nav ul li a:hover
 
 
 
-/*
-.images
-{
-    width: 40vw;
-    height: 75vh;
-    position: relative;
-
-    margin-top: 9.3vh;
-    margin-left: 38vw;
-}
-.images img
-{
-    position: absolute;
-    left: 50vw;
-    bottom: 0;
-    transform: translateX(-50%);
-    transition: bottom 1s, left 1s;
-
-}
-
-.ProfilePicture:hover
-{
-    bottom: 3.7vh;
-}
-
-.blob:hover
-{
-    left: 45vw;
-}
-
-*/
 
 
 
@@ -232,7 +201,7 @@ nav ul li a:hover
 
 #about
 {
-    padding: 2vh 0;
+    padding: 5vh 0;
     color: black;
 }
 
