@@ -300,6 +300,14 @@ nav ul li a:hover
 
 .educationPicture
 {
+    float: right; 
+    clear: right; 
+    margin-left: 1vw; 
+    margin-bottom: 0.25vh;
+}
+
+.educationPicture img
+{
     margin-right: 30vw;
     width: 50vw;
     height: 50vh;
