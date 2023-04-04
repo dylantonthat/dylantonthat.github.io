@@ -77,6 +77,14 @@ nav ul li a:hover
 
 /*spacing between sections is mostly about the PADDING*/
 
+.home-image img
+{
+    margin: 2vh;
+    height: 75vh;
+    width: 35vw;
+
+}
+
 .home-text h1
 {
     font-size: 7vw;
@@ -146,13 +154,7 @@ nav ul li a:hover
     text-decoration: underline;
 }
 
-.images img
-{
-    margin: 2vh;
-    height: 75vh;
-    width: 25vw;
 
-}
 
 /*
 .images
