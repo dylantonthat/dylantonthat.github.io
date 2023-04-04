@@ -164,6 +164,15 @@ nav ul li a:hover
     font-size: 1.25vw;
 }
 
+.home-text h6
+{
+    left: 5vw;
+    padding: 1vh 0;
+
+    margin-left: 15vw;
+    font-size: 30vw;
+}
+
 .resume:hover
 {
     text-decoration: underline;
