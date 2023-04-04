@@ -400,7 +400,7 @@ nav ul li a:hover
 .portfolio img
 {
    width: 75vw;
-   height: 50wh;
+   height: 50vh;
    border-radius: 15px; 
    display: block; 
 }
