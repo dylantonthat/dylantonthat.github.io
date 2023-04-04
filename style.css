@@ -233,7 +233,7 @@ nav ul li a:hover
     color:#143156;
 }
 
-.aboutMe-Description
+.aboutMe-Description p
 {
     flex-basis: 60vw;
     line-height: 350%;
