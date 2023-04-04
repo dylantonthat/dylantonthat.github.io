@@ -101,8 +101,8 @@ nav ul li a:hover
 
 .home-image img
 {
-    height: 35vh;
-    width: 10vw;
+    height: 45vh;
+    width: 20vw;
 
 }
 
@@ -371,7 +371,7 @@ nav ul li a:hover
 .portfolio img
 {
    width: 75vw;
-   height: 50vh;
+   height: 60vh;
    border-radius: 15px; 
    display: block; 
 }
