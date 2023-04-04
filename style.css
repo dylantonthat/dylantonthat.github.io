@@ -203,7 +203,8 @@ nav ul li a:hover
 
 #about
 {
-    padding: 5vh 0;
+    margin-top: 5vh;
+    padding: 5vh;
     color: black;
 }
 
@@ -326,7 +327,7 @@ nav ul li a:hover
 
 #portfolio
 { 
-    padding: vh 0;
+    padding: 1vh 0;
     left: 1.3vw;
     line-height: 200%;
 }
