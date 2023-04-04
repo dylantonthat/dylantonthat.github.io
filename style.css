@@ -293,7 +293,7 @@ nav ul li a:hover
 #education
 {
     padding: 2vh;
-    line-height: 200%;
+    line-height: 250%;
     
 }
 
@@ -347,7 +347,7 @@ nav ul li a:hover
 
 #portfolio
 { 
-    padding: 7vh 0;
+    padding: vh 0;
     left: 1.3vw;
     line-height: 200%;
 }
