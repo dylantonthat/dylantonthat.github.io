@@ -149,7 +149,22 @@ nav ul li a:hover
     margin-left: 15vw;
     font-size: 1.25vw;
 }
+
 .github:hover
+{
+    text-decoration: underline;
+}
+
+.home-text h5
+{    
+    left: 5vw;
+    padding: 1vh 0;
+
+    margin-left: 15vw;
+    font-size: 1.25vw;
+}
+
+.resume:hover
 {
     text-decoration: underline;
 }
