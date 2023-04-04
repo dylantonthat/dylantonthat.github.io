@@ -121,7 +121,7 @@ nav ul li a:hover
     padding: 1vh 0;
     margin-top: 2vh;
     margin-left: 15vw;
-    font-size: 1vw;
+    font-size: 1.25vw;
 }
 .email:hover
 {
@@ -134,7 +134,7 @@ nav ul li a:hover
     padding: 1vh 0;
 
     margin-left: 15vw;
-    font-size: 1vw;
+    font-size: 1.25vw;
 }
 .linkedin:hover
 {
@@ -147,7 +147,7 @@ nav ul li a:hover
     padding: 1vh 0;
 
     margin-left: 15vw;
-    font-size: 1vw;
+    font-size: 1.25vw;
 }
 .github:hover
 {
