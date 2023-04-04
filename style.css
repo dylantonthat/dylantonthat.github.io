@@ -293,8 +293,14 @@ nav ul li a:hover
 #education
 {
     padding: 2vh;
-    line-height: 250%;
+    line-height: 200%;
     
+}
+
+.edu-background
+{
+    line-height: 250%;
+
 }
 
 /*
@@ -317,6 +323,7 @@ nav ul li a:hover
 .educationSubtitle
 {
     font-size: 3vw;
+    margin-bottom: 2vh;
 }
 
 .educationSubtitle span
