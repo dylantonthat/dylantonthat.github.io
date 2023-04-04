@@ -79,9 +79,16 @@ nav ul li a:hover
 
 /*spacing between sections is mostly about the PADDING*/
 
+.home-image
+{
+    float: right;
+    clear: right; 
+    margin-left: 1vw; 
+    margin-bottom: 0.25vh;
+}
+
 .home-image img
 {
-    margin: 0.1vh;
     height: 75vh;
     width: 35vw;
 
