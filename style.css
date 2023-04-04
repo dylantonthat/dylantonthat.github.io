@@ -257,35 +257,6 @@ nav ul li a:hover
 
 
 
-/* resume button */
-
-.resumeSubtitle
-{
-    text-align: center;
-}
- 
-.aboutMe-Description a
-{    
-    margin-left: 18vw;
-    text-decoration: none;
-    font-size: 1.6vw;
-    font-weight: bold;
-    color:#143156;
-    background-color: #74c9ed;
-    width: 3vw;
-    text-align: center;
-    border-radius: 15px;
-}
-
-.aboutMe-Description a:hover
-{
-    background-color: #add8e6;
-}
-
-
-
-
-
 /* Education */
 
 #education
