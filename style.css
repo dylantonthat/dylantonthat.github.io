@@ -297,10 +297,10 @@ nav ul li a:hover
     
 }
 
+/*
 .educationPicture
 {
     float: right; 
-    clear: right; 
     margin-left: 1vw; 
     margin-bottom: 0.25vh;
 }
@@ -308,9 +308,11 @@ nav ul li a:hover
 .educationPicture img
 {
     margin-right: 30vw;
-    width: 50vw;
-    height: 50vh;
+    width: 40vw;
+    height: 75vh;
 }
+
+*/
 
 .educationSubtitle
 {
