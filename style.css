@@ -232,7 +232,7 @@ nav ul li a:hover
 {
     height: 75vh;
     width: 35vw;
-    border-radius: 25px;
+    border-radius: 15px;
 }
 
 .aboutMeSubtitle
@@ -276,22 +276,7 @@ nav ul li a:hover
 
 }
 
-/*
-.educationPicture
-{
-    float: right; 
-    margin-left: 1vw; 
-    margin-bottom: 0.25vh;
-}
 
-.educationPicture img
-{
-    margin-right: 30vw;
-    width: 40vw;
-    height: 75vh;
-}
-
-*/
 
 .educationSubtitle
 {
@@ -308,6 +293,11 @@ nav ul li a:hover
 .educationSubtitle span2
 {
     color:#143156;
+}
+
+.njit
+{
+    font-size: 3vw;
 }
 
 .dates
