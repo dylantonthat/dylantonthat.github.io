@@ -152,20 +152,8 @@ nav ul li a:hover
     text-decoration: underline;
 }
 
+
 .home-text h4
-{    
-    left: 5vw;
-    padding: 1vh 0;
-
-    margin-left: 15vw;
-    font-size: 1.25vw;
-}
-.linkedin:hover
-{
-    text-decoration: underline;
-}
-
-.home-text h5
 {    
     left: 5vw;
     padding: 1vh 0;
@@ -179,7 +167,7 @@ nav ul li a:hover
 }
 
 
-.home-text h6
+.home-text h5
 {
     left: 5vw;
     padding: 1vh 0;
@@ -189,10 +177,11 @@ nav ul li a:hover
     margin-bottom: 10vh;
 
 }
-.resume:hover
+.linkedin:hover
 {
     text-decoration: underline;
 }
+
 
 
 
