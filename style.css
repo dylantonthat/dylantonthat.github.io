@@ -270,6 +270,7 @@ nav ul li a:hover
 
 .educationSubtitle
 {
+    float: left;
     font-size: 3vw;
     margin-bottom: 2vh;
 }
