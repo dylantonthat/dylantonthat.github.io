@@ -317,10 +317,7 @@ nav ul li a:hover
     padding: 1% 5%;
     left: 1.3vw;
     line-height: 200%;
-    
-
 }
-
 
 
 .portfolioList
@@ -329,14 +326,15 @@ nav ul li a:hover
     width: 100%;
 
 }
-
-
-.wrapper
+.portfolioList
 {
     display: flex;
+    margin-top: 4.6vh;
     align-content: center;
     justify-content: center;
 }
+
+
 
 .portfolioSubtitle 
 {
@@ -354,11 +352,7 @@ nav ul li a:hover
     color:#143156;
 }
 
-.portfolioList
-{
-    display: grid;
-    margin-top: 4.6vh;
-}
+
 .project1
 {
     border-radius: 15px;
