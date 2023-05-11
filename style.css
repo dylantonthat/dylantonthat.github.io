@@ -317,7 +317,7 @@ nav ul li a:hover
 .portfolioList
 {
     align-items: center;
-    width: auto;
+    width: 100%;
     left: 1vw;
 
 }
@@ -354,13 +354,27 @@ nav ul li a:hover
     position: relative;
     overflow: hidden;
 }
+.project2
+{
+    border-radius: 15px;
+    position: relative;
+    overflow: hidden;
+}
+.project3
+{
+    border-radius: 15px;
+    position: relative;
+    overflow: hidden;
+}
+
+
 
 .portfolioHeading
 {
     font-size: 1.8vw;
 }
 
-.blackjackTitle:hover
+.portfolioHeading:hover
 {
     text-decoration: underline;
 } 
