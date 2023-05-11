@@ -312,7 +312,7 @@ nav ul li a:hover
 }
 */
 
-#wrapper
+#portfolio
 {
     padding: 1% 5%;
     left: 1.3vw;
@@ -322,14 +322,14 @@ nav ul li a:hover
 
 }
 
-#wrapper div
+#portfolio div
 {
     align-items: center;
 
 }
 
 
-.portfolio
+.wrapper
 {
     display: flex;
 }
