@@ -303,13 +303,28 @@ nav ul li a:hover
 
 
 /*My Portfolio */
-
+/*
 #portfolio
 { 
-    display: flex;
     padding: 1vh 0;
     left: 1.3vw;
     line-height: 200%;
+}
+*/
+
+.wrapper
+{
+    padding: 1vh 0;
+    left: 1.3vw;
+    line-height: 200%;
+    display: flex;
+
+}
+}
+
+.portfolio
+{
+    display: flex;
 }
 
 .portfolioSubtitle 
@@ -359,7 +374,3 @@ nav ul li a:hover
 }
 
 
-.wrapper
-{
-
-}
