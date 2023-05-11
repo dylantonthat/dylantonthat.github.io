@@ -365,9 +365,24 @@ nav ul li a:hover
     text-decoration: underline;
 } 
 
-.portfolio img
+.project1 img
 {
-   width: 30vw;
+   width: auto;
+   height: auto;
+   border-radius: 15px; 
+   display: block; 
+}
+
+.project2 img
+{
+   width: auto;
+   height: auto;
+   border-radius: 15px; 
+   display: block; 
+}
+.project3 img
+{
+   width: auto;
    height: auto;
    border-radius: 15px; 
    display: block; 
