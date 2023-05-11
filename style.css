@@ -306,7 +306,7 @@ nav ul li a:hover
 
 #portfolio
 { 
-    padding: 5vh 0;
+    padding: 1vh 0;
     left: 1.3vw;
     line-height: 200%;
 }
@@ -351,8 +351,8 @@ nav ul li a:hover
 
 .portfolio img
 {
-   width: 50vw;
-   height: 40vh;
+   width: 30vw;
+   height: auto;
    border-radius: 15px; 
    display: block; 
 }
