@@ -317,6 +317,7 @@ nav ul li a:hover
 {
     align-items: center;
     width: auto;
+    left: 1vw;
 
 }
 .portfolioList
