@@ -303,18 +303,11 @@ nav ul li a:hover
 
 
 /*My Portfolio */
-/*
-#portfolio
-{ 
-    padding: 1vh 0;
-    left: 1.3vw;
-    line-height: 200%;
-}
-*/
+
 
 #portfolio
 {
-    padding: 1% 5%;
+    padding: 1vh 0;
     left: 1.3vw;
     line-height: 200%;
 }
@@ -323,13 +316,13 @@ nav ul li a:hover
 .portfolioList
 {
     align-items: center;
-    width: 100%;
+    width: auto;
 
 }
 .portfolioList
 {
     display: flex;
-    margin-top: 4.6vh;
+    margin-top: 4.5vh;
     align-content: center;
     justify-content: center;
 }
