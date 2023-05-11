@@ -314,6 +314,9 @@ nav ul li a:hover
 
     left: 1vw;
     line-height: 200%;
+
+    align-content: center;
+    justify-content: center;
 }
 
 #portfolio div
@@ -340,26 +343,6 @@ nav ul li a:hover
 .portfolioSubtitle span2
 {
     color:#143156;
-}
-
-
-.project1
-{
-    border-radius: 15px;
-    position: relative;
-    overflow: hidden;
-}
-.project2
-{
-    border-radius: 15px;
-    position: relative;
-    overflow: hidden;
-}
-.project3
-{
-    border-radius: 15px;
-    position: relative;
-    overflow: hidden;
 }
 
 
