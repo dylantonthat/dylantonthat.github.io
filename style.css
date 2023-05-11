@@ -325,6 +325,8 @@ nav ul li a:hover
 #portfolio div
 {
     align-items: center;
+    width: 100%;
+
 
 }
 
