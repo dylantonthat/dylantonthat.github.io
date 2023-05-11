@@ -306,6 +306,7 @@ nav ul li a:hover
 
 #portfolio
 { 
+    display: flex;
     padding: 1vh 0;
     left: 1.3vw;
     line-height: 200%;
@@ -332,7 +333,7 @@ nav ul li a:hover
     display: grid;
     margin-top: 4.6vh;
 }
-.portfolio
+.project1
 {
     border-radius: 15px;
     position: relative;
@@ -355,4 +356,10 @@ nav ul li a:hover
    height: auto;
    border-radius: 15px; 
    display: block; 
+}
+
+
+.wrapper
+{
+
 }
