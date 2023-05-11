@@ -219,7 +219,7 @@ nav ul li a:hover
 
 .aboutMe-image img
 {
-    height: 75vh;
+    height: auto;
     width: 33vw;
     border-radius: 15px;
 }
@@ -306,7 +306,7 @@ nav ul li a:hover
 
 #portfolio
 { 
-    padding: vh 0;
+    padding: 5vh 0;
     left: 1.3vw;
     line-height: 200%;
 }
