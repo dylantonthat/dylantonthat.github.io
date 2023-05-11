@@ -317,7 +317,14 @@ nav ul li a:hover
     padding: 1% 5%;
     left: 1.3vw;
     line-height: 200%;
-    display: flex;
+    align-content: center;
+    justify-content: center;
+
+}
+
+#wrapper div
+{
+    align-items: center;
 
 }
 
