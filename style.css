@@ -312,7 +312,6 @@ nav ul li a:hover
     padding: 1vh 0;
     display: flex;
 
-    left: 1vw;
     line-height: 200%;
 
     align-content: center;
@@ -321,6 +320,7 @@ nav ul li a:hover
 
 #portfolio a 
 {
+    left: 1vw;
     align-items: center;
     width: 100%;
 }
