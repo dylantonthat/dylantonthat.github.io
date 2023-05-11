@@ -319,7 +319,7 @@ nav ul li a:hover
     justify-content: center;
 }
 
-#portfolio div
+#portfolio a 
 {
     align-items: center;
     width: 100%;
