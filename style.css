@@ -322,7 +322,8 @@ nav ul li a:hover
     left: 5vw;
     border-radius: 10px;
     align-items: center;
-    margin: 10vw;
+    margin-left: 10vw;
+    margin-right: 10vw;
     width: 50%;
 
     display: block; 
