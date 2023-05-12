@@ -44,7 +44,7 @@ nav ul li
     display: inline-block;
     list-style: none;
     
-    align-items: center;
+    text-align: center;
     justify-content: center;
 
 }
