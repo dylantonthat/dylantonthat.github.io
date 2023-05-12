@@ -77,11 +77,6 @@ nav ul li a:hover
 
 
 
-
-
-
-
-
 /*spacing between sections is mostly about the PADDING*/
 
 
@@ -213,9 +208,6 @@ nav ul li a:hover
     margin-top: 0.25vh;
 }
 
-
-
-
 .aboutMe-image img
 {
     height: auto;
@@ -337,10 +329,6 @@ nav ul li a:hover
 
 }
 
-#portfolio span
-{
-    font-size: 1vw;
-}
 
 
 
@@ -362,8 +350,6 @@ nav ul li a:hover
 {
     color:#143156;
 }
-
-
 
 .portfolioHeading
 {
