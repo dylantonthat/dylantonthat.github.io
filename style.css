@@ -39,6 +39,8 @@ body
 
 nav
 {
+    background: #74c9ed;
+
     display: flex;
     width: 84vw;
     margin: auto;
@@ -74,7 +76,6 @@ nav ul li a:hover
 {
     text-decoration: underline;
 } 
-
 
 
 
