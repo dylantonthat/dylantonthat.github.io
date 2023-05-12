@@ -169,7 +169,7 @@ nav ul li a:hover
 .aboutMe-image
 {
     flex-basis: 35vw;
-
+    border-radius: 10px;
     float: left; 
     margin-right: 2vw; 
     margin-bottom: 0.25vh;
