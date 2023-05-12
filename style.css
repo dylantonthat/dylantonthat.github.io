@@ -363,12 +363,14 @@ nav ul li a:hover
 .site-footer
 {
     background: #74c9ed;
-    font-size: 2vw;
+    font-size: 1vw;
     left: 5vw;
     align-items: center;
     text-align: wrap;
-    margin: 5vw;
-    width: 75%;
+    margin-left: 5vw;
+    margin-right: 5vw;
+
+    width: 100%;
 
 }
 
