@@ -327,12 +327,7 @@ nav ul li a:hover
     width: 75%;
 
     display: block; 
-
 }
-
-
-
-
 
 
 
@@ -363,5 +358,16 @@ nav ul li a:hover
 } 
 
 
+/* Footer */
+
+.footer
+{
+    left: 5vw;
+    align-items: center;
+    text-align: wrap;
+    margin: 5vw;
+    width: 75%;
+
+}
 
 
