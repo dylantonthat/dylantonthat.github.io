@@ -33,7 +33,7 @@ nav
 {
     background: #143156;
 
-    width: 50vw;
+    width: 100vw;
     margin: auto;
     padding: 2vh 2vw;
 
@@ -135,7 +135,7 @@ nav ul li a:hover
     margin-top: 2vh;
     padding: 1vh 0;
     font-size: 1.25vw;
-    
+
     margin-bottom: 10vh;
 
 }
