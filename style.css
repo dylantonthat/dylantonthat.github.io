@@ -332,10 +332,14 @@ nav ul li a:hover
     align-items: center;
     margin: 10vw;
     width: 50%;
-    
+
     display: block; 
 
+}
 
+#portfolio span
+{
+    font-size: 3vw;
 }
 
 
