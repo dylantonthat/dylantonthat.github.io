@@ -362,6 +362,7 @@ nav ul li a:hover
 
 .footer
 {
+    font-size: 2vw;
     left: 5vw;
     align-items: center;
     text-align: wrap;
