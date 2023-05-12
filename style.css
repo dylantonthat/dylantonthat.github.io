@@ -322,15 +322,16 @@ nav ul li a:hover
     align-items: center;
     text-align: wrap;
     margin: 10vw;
-    width: 100%;
+    width: 50%;
 }
 
 #portfolio img
 {
+    left: 5vw;
     border-radius: 10px;
     align-items: center;
     margin: 10vw;
-    width: 100%;
+    width: 50%;
 
 }
 
