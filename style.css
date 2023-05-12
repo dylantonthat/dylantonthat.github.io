@@ -178,7 +178,8 @@ nav ul li a:hover
     padding: 3vh;
     height: 65vh;
     width: 33vw;
-    border-radius: 15px;
+    
+    border-radius: 40px;
 }
 
 .aboutMeSubtitle
