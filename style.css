@@ -332,6 +332,9 @@ nav ul li a:hover
     align-items: center;
     margin: 10vw;
     width: 50%;
+    
+    display: block; 
+
 
 }
 
@@ -367,27 +370,6 @@ nav ul li a:hover
     text-decoration: underline;
 } 
 
-.project1 img
-{
-   width: auto;
-   height: auto;
-   border-radius: 15px; 
-   display: block; 
-}
 
-.project2 img
-{
-   width: auto;
-   height: auto;
-   border-radius: 15px; 
-   display: block; 
-}
-.project3 img
-{
-   width: auto;
-   height: auto;
-   border-radius: 15px; 
-   display: block; 
-}
 
 
