@@ -154,7 +154,7 @@ nav ul li a:hover
 
 #about
 {
-    margin-top: 5vh;
+    margin-top: 3vh;
     padding: 6vh 0;
     color: black;
 }
@@ -178,7 +178,7 @@ nav ul li a:hover
 
 .aboutMe-image img
 {
-    height: auto;
+    height: 65vh;
     width: 33vw;
     border-radius: 15px;
 }
