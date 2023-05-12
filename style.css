@@ -39,7 +39,7 @@ body
 
 nav
 {
-    background: #74c9ed;
+    background: #143156;
 
     display: flex;
     width: 84vw;
@@ -347,7 +347,7 @@ nav ul li a:hover
 
 .site-footer
 {
-    background: #74c9ed;
+    background: #143156;
     font-size: 1vw;
     text-align: wrap;
     margin-left: 5vw;
