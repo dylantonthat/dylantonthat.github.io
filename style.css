@@ -102,12 +102,12 @@ nav ul li a:hover
 
 #home-text h1
 {
-    font-size: 7vw;
+    font-size: 5.5vw;
     padding: 3vh 0;
     color: black;
     margin-top: 2vh;
     position: relative;
-    left: 3vw;
+    left: 4vw;
     text-shadow: 0.1% 4% 4px;
 }
 
