@@ -325,6 +325,15 @@ nav ul li a:hover
     width: 100%;
 }
 
+#portfolio img
+{
+    border-radius: 10px;
+    align-items: center;
+    margin: 10vw;
+    width: 100%;
+
+}
+
 
 
 
