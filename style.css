@@ -37,8 +37,6 @@ nav
     margin: auto;
     padding: 2vh 2vw;
 
-    align-items: center;
-    justify-content: center;
 }
 
 nav ul li
@@ -49,6 +47,10 @@ nav ul li
 
     display: inline-block;
     list-style: none;
+    
+    align-items: center;
+    justify-content: center;
+
 }
 
 /*hover over (home, about, resume, etc.) to get underline*/
