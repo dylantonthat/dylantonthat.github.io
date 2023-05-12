@@ -80,7 +80,7 @@ nav ul li a:hover
 
 #home-text h1
 {
-    font-size: 10vw;
+    font-size: 8vw;
 
     color: black;
     margin-top: 2vh;
@@ -159,7 +159,7 @@ nav ul li a:hover
 #about
 {
     margin-top: 5vh;
-    padding: 5vh 0;
+    padding: 6vh 0;
     color: black;
 }
 
