@@ -109,10 +109,7 @@ nav ul li a:hover
 #home-text h3
 {  
     margin-top: 2vh;
-
     padding: 1vh 0;
-
-    margin-left: 15vw;
     font-size: 1.25vw;
 }
 .email:hover
@@ -123,9 +120,8 @@ nav ul li a:hover
 
 #home-text h4
 {    
+    margin-top: 2vh;
     padding: 1vh 0;
-
-    margin-left: 15vw;
     font-size: 1.25vw;
 }
 .github:hover
@@ -136,10 +132,10 @@ nav ul li a:hover
 
 #home-text h5
 {
+    margin-top: 2vh;
     padding: 1vh 0;
-
-    margin-left: 15vw;
     font-size: 1.25vw;
+    
     margin-bottom: 10vh;
 
 }
