@@ -33,10 +33,10 @@ nav
 {
     background: #143156;
 
-    display: flex;
-    width: 75vw;
+    width: 50vw;
     margin: auto;
     padding: 2vh 2vw;
+
     align-items: center;
     justify-content: center;
 }
