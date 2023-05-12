@@ -18,14 +18,6 @@ body
     overflow-x: hidden; /*hides horizontal scroll*/
 }
 
-/*
-#home
-{
-    position: relative;
-    width: 100%;
-    height: 100vh;
-}
-*/
 
 .container
 {
@@ -42,26 +34,21 @@ nav
     background: #143156;
 
     display: flex;
-    width: 84vw;
+    width: 75vw;
     margin: auto;
     padding: 2vh 2vw;
     align-items: center;
-    justify-content: space-between;
+    justify-content: center;
 }
 
 nav ul li
 {
     text-decoration: none;
     color: black;
-    font-weight: bolder;
+    font-weight: bold;
 
-}
-
-nav ul li
-{
     display: inline-block;
     list-style: none;
-    margin: 1vh 1vw;
 }
 
 /*hover over (home, about, resume, etc.) to get underline*/
