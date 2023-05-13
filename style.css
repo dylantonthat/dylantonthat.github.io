@@ -270,8 +270,9 @@ nav ul a:hover
 
 .skillsSubtitle 
 {
-    padding: 1% 5%;
+    margin-left: 5vw;
     font-size: 3vw;
+    margin-bottom: 2vh;
 }
 
 .skillsSubtitle span
