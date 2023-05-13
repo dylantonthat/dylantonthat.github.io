@@ -288,18 +288,19 @@ nav ul a:hover
 #skills 
 {
     text-align: left; 
-    padding-top: 1vh; /* Add top padding */
-    padding-bottom: 1vh; /* Add bottom padding */
+    padding-top: 1vh; 
+    padding-bottom: 1vh; 
     color: black; 
     font-size: 5vh;
 }
 
 .skills-background
 {
-    width: 100%;
+    width: 75%;
+    align-items: center;
     background: lightgrey;
     border-radius: 15px;
-    font-size: 6vh;
+    font-size: 5vh;
 }
   
 
@@ -308,28 +309,39 @@ nav ul a:hover
     font-size: 2vw;
     width: 75%; background-color: #74c9ed;
     margin-bottom: 2vh;
-    left:5vw;
+    margin-left:5vw;
+
+    border-radius: 5px;
 } 
 .Python 
 {
     font-size: 2vw;
     width: 60%; background-color: #74c9ed;
     margin-bottom: 2vh;
-    left:5vw;
+    margin-left:5vw;
+
+    border-radius: 5px;
+
 } 
 .HTMLCSS
 {
     font-size: 2vw;
     width: 60%; background-color: #74c9ed;
     margin-bottom: 2vh;
-    left:5vw;
+    margin-left:5vw;
+
+    border-radius: 5px;
+
 } 
 .CPlusPlus
 {
     font-size: 2vw;
     width: 50%; background-color: #74c9ed;
     margin-bottom: 2vh;
-    left:5vw;
+    margin-left:5vw;
+
+    border-radius: 5px;
+
 } 
 
 
