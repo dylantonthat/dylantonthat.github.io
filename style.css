@@ -257,6 +257,34 @@ nav ul a:hover
 
 }
 
+/*Skills Chart*/
+
+.skills {
+    text-align: right; /* Right-align text */
+    padding-top: 1vh; /* Add top padding */
+    padding-bottom: 1vh; /* Add bottom padding */
+    color: black; /* White text color */
+  }
+  
+
+.Java 
+{
+    width: 80%; background-color: #74c9ed;
+} 
+.Python 
+{
+    width: 70%; background-color: #74c9ed;
+} 
+.HTMLCSS
+{
+    width: 70%; background-color: #74c9ed;
+} 
+.CPlusPlus
+{
+    width: 60%; background-color: #74c9ed;
+} 
+
+
 
 /*My Portfolio */
 
