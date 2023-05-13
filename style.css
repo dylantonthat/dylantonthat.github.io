@@ -70,8 +70,6 @@ nav ul a:hover
 
 
 /*spacing between sections is mostly about the PADDING*/
-
-
 #home-text
 {
     margin-bottom: 10vh;
@@ -177,7 +175,8 @@ nav ul a:hover
 
 .aboutMe-image img
 {
-    padding: 3vh;
+    padding-top: 3vh;
+    padding-bottom: 6vh;
     height: 75vh;
     width: 33vw;
 
