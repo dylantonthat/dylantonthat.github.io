@@ -175,7 +175,9 @@ nav ul a:hover
 
 .aboutMe-image img
 {
-    padding: 3vh;
+    padding-top: 3vh;
+    padding-bottom: 3vh;
+    padding-right: 3vh;
     height: 75vh;
     width: 33vw;
 
