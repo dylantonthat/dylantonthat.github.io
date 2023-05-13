@@ -302,6 +302,11 @@ nav ul a:hover
     border-radius: 15px;
     font-size: 5vh;
 }
+
+.skills-background p
+{
+    margin-left: 5vw;
+}
   
 
 .Java 
