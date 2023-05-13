@@ -24,7 +24,12 @@ body
     padding: 1% 5%;
 }
 
+.divider
+{
+    margin: 5vw;
+}
 
+/*home page*/
 nav
 {
     background: #143156;
