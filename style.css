@@ -259,13 +259,30 @@ nav ul a:hover
 
 /*Skills Chart*/
 
-#skills {
+#skills 
+{
     text-align: left; /* Right-align text */
     padding-top: 1vh; /* Add top padding */
     padding-bottom: 1vh; /* Add bottom padding */
     color: black; /* White text color */
     font-size: 5vh;
-  }
+}
+
+.skillsSubtitle 
+{
+    padding: 1% 5%;
+    font-size: 3vw;
+}
+
+.skillsSubtitle span
+{
+    color:#74c9ed;
+}
+
+.skillsSubtitle span2
+{
+    color:#143156;
+}
   
 
 .Java 
