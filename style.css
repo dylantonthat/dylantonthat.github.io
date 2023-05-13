@@ -259,29 +259,37 @@ nav ul a:hover
 
 /*Skills Chart*/
 
-.skills {
-    text-align: right; /* Right-align text */
+#skills {
+    text-align: left; /* Right-align text */
     padding-top: 1vh; /* Add top padding */
     padding-bottom: 1vh; /* Add bottom padding */
     color: black; /* White text color */
+    font-size: 5vh;
   }
   
 
 .Java 
 {
     width: 80%; background-color: #74c9ed;
+    margin-bottom: 2vh;
 } 
 .Python 
 {
     width: 70%; background-color: #74c9ed;
+    margin-bottom: 2vh;
+
 } 
 .HTMLCSS
 {
     width: 70%; background-color: #74c9ed;
+    margin-bottom: 2vh;
+
 } 
 .CPlusPlus
 {
     width: 60%; background-color: #74c9ed;
+    margin-bottom: 2vh;
+
 } 
 
 
