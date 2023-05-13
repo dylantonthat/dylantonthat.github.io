@@ -272,24 +272,25 @@ nav ul a:hover
 {
     width: 80%; background-color: #74c9ed;
     margin-bottom: 2vh;
+    left:5vw;
 } 
 .Python 
 {
     width: 70%; background-color: #74c9ed;
     margin-bottom: 2vh;
-
+    left:5vw;
 } 
 .HTMLCSS
 {
     width: 70%; background-color: #74c9ed;
     margin-bottom: 2vh;
-
+    left:5vw;
 } 
 .CPlusPlus
 {
     width: 60%; background-color: #74c9ed;
     margin-bottom: 2vh;
-
+    left:5vw;
 } 
 
 
