@@ -280,7 +280,7 @@ nav ul a:hover
 
 #skills 
 {
-    text-align: left; 
+    text-align: right; 
     padding-top: 1vh; /* Add top padding */
     padding-bottom: 1vh; /* Add bottom padding */
     color: black; 
