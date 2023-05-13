@@ -296,11 +296,13 @@ nav ul a:hover
 
 .skills-background
 {
+    margin-left: 5vw;
     width: 75%;
     align-items: center;
     background: lightgrey;
     border-radius: 15px;
     font-size: 5vh;
+
 }
 
 .skills-background p
