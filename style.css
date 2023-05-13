@@ -182,6 +182,7 @@ nav ul a:hover
     width: 33vw;
 
     border-radius: 40px;
+    box-shadow: 1vh 1vh 3vh #b3b3b3;
 }
 
 .aboutMeSubtitle
