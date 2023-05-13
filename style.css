@@ -288,6 +288,7 @@ nav ul a:hover
 
 .skills-background
 {
+    width: 100%;
     background: lightgrey;
     border-radius: 15px;
 }
