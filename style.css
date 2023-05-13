@@ -90,7 +90,7 @@ nav ul a:hover
     color: #74c9ed;
 }
 
-#home-text h1 span2
+#home-text h1 span-2
 {
     color: #143156;
 }
@@ -197,7 +197,7 @@ nav ul a:hover
     color: #74c9ed;
 }
 
-.aboutMeSubtitle span2
+.aboutMeSubtitle span-2
 {
     color:#143156;
 }
@@ -218,6 +218,8 @@ nav ul a:hover
     padding: 1vh 0; 
     color: black; 
     font-size: 5vh;
+    box-shadow: 1vh 1vh 3vh #b3b3b3;
+
 }
 
 .skillsSubtitle 
@@ -234,7 +236,7 @@ nav ul a:hover
     color:#74c9ed;
 }
 
-.skillsSubtitle span2
+.skillsSubtitle span-2
 {
     color:#143156;
 }
@@ -361,7 +363,7 @@ nav ul a:hover
     color:#74c9ed;
 }
 
-.portfolioSubtitle span2
+.portfolioSubtitle span-2
 {
     color:#143156;
 }
