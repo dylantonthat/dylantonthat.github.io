@@ -307,7 +307,11 @@ nav ul a:hover
 .Java 
 {
     font-size: 2vw;
-    width: 75%; background-color: #74c9ed;
+
+    text-align: 75vw;
+    width: 75%; 
+
+    background-color: #74c9ed;
     margin-bottom: 2vh;
     margin-left:5vw;
 
@@ -316,9 +320,13 @@ nav ul a:hover
 .Python 
 {
     font-size: 2vw;
-    width: 60%; background-color: #74c9ed;
+    
+    text-align: 60vw;
+    width: 60%; 
+    
+    background-color: #74c9ed;
     margin-bottom: 2vh;
-    margin-left:5vw;
+    margin-left: 5vw;
 
     border-radius: 5px;
 
@@ -326,7 +334,11 @@ nav ul a:hover
 .HTMLCSS
 {
     font-size: 2vw;
-    width: 60%; background-color: #74c9ed;
+
+    text-align: 60vw;
+    width: 60%; 
+
+    background-color: #74c9ed;
     margin-bottom: 2vh;
     margin-left:5vw;
 
