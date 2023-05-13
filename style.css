@@ -266,6 +266,7 @@ nav ul a:hover
     padding-bottom: 1vh; /* Add bottom padding */
     color: black; 
     font-size: 5vh;
+    background: gray;
 }
 
 .skillsSubtitle 
@@ -387,6 +388,7 @@ nav ul a:hover
 {
     background: #143156;
     font-size: 1vw;
+    color: white;
     margin: auto;
     padding: 2vh 2vw;
     height: 10%;
