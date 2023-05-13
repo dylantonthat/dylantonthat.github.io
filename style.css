@@ -259,16 +259,6 @@ nav ul a:hover
 
 /*Skills Chart*/
 
-#skills 
-{
-    text-align: left; 
-    padding-top: 1vh; /* Add top padding */
-    padding-bottom: 1vh; /* Add bottom padding */
-    color: black; 
-    font-size: 5vh;
-    background: gray;
-}
-
 .skillsSubtitle 
 {
     margin-left: 5vw;
@@ -284,6 +274,21 @@ nav ul a:hover
 .skillsSubtitle span2
 {
     color:#143156;
+}
+
+
+#skills 
+{
+    text-align: left; 
+    padding-top: 1vh; /* Add top padding */
+    padding-bottom: 1vh; /* Add bottom padding */
+    color: black; 
+    font-size: 5vh;
+}
+
+.skills-background
+{
+    background: lightgrey;
 }
   
 
