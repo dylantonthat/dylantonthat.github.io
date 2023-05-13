@@ -245,7 +245,7 @@ nav ul a:hover
     margin-left: 5vw;
     width: 75%;
     align-items: center;
-    background: lightgrey;
+    background: #b3b3b3;
     border-radius: 15px;
     font-size: 5vh;
 
@@ -342,6 +342,7 @@ nav ul a:hover
     margin-left: 5vw;
     margin-right: 5vw;
     width: 65%;
+    box-shadow: 1vh 1vh 3vh #b3b3b3;
 
     display: block; 
 }
