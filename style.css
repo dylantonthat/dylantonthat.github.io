@@ -331,7 +331,7 @@ nav ul a:hover
     align-items: center;
     text-align: wrap;
     margin: 5vw;
-    width: 50%;
+    width: 40%;
 }
 
 #portfolio img
@@ -341,7 +341,7 @@ nav ul a:hover
     align-items: center;
     margin-left: 5vw;
     margin-right: 5vw;
-    width: 75%;
+    width: 65%;
 
     display: block; 
 }
