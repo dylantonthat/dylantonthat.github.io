@@ -115,20 +115,12 @@ nav ul a:hover
     text-decoration: underline;
 }
 
-
-#home-text h4
-{    
-    margin-top: 2vh;
-    padding: 1vh 0;
-    font-size: 1.5vw;
-}
 .github:hover
 {
     text-decoration: underline;
 }
 
-
-#home-text h5
+#home-text h4
 {
     margin-top: 2vh;
     padding: 1vh 0;
