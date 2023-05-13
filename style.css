@@ -261,10 +261,10 @@ nav ul a:hover
 
 #skills 
 {
-    text-align: left; /* Right-align text */
+    text-align: left; 
     padding-top: 1vh; /* Add top padding */
     padding-bottom: 1vh; /* Add bottom padding */
-    color: black; /* White text color */
+    color: black; 
     font-size: 5vh;
 }
 
@@ -288,25 +288,29 @@ nav ul a:hover
 
 .Java 
 {
-    width: 80%; background-color: #74c9ed;
+    font-size: 2vw;
+    width: 75%; background-color: #74c9ed;
     margin-bottom: 2vh;
     left:5vw;
 } 
 .Python 
 {
-    width: 70%; background-color: #74c9ed;
+    font-size: 2vw;
+    width: 60%; background-color: #74c9ed;
     margin-bottom: 2vh;
     left:5vw;
 } 
 .HTMLCSS
 {
-    width: 70%; background-color: #74c9ed;
+    font-size: 2vw;
+    width: 60%; background-color: #74c9ed;
     margin-bottom: 2vh;
     left:5vw;
 } 
 .CPlusPlus
 {
-    width: 60%; background-color: #74c9ed;
+    font-size: 2vw;
+    width: 50%; background-color: #74c9ed;
     margin-bottom: 2vh;
     left:5vw;
 } 
