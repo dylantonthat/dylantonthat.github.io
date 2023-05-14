@@ -365,8 +365,8 @@ body
     justify-content: center;
 }
 
-/*
-#portfolio a 
+
+.project a 
 {
     left: 5vw;
     align-items: center;
@@ -374,10 +374,15 @@ body
     margin: 5vw;
     width: 40%;
 }
-*/
 
 
-#portfolio a:visited
+.project a:link
+{
+    color: black;
+}
+
+
+.project a:visited
 {
     color: black;
 }
