@@ -267,6 +267,12 @@ nav ul a:hover
 
     border-radius: 5px;
 } 
+
+.Java p
+{
+    width: 75%;
+    text-align:center;
+}
 .Python 
 {
     font-size: 2vw;
