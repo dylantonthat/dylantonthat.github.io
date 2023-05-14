@@ -383,7 +383,7 @@ body
     margin-left: 5vw;
     margin-right: 5vw;
     width: 65%;
-    height: 75%;
+    height: auto;
     box-shadow: 1vh 1vh 3vh #b3b3b3;
 
     display: block; 
