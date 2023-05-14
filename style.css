@@ -149,11 +149,14 @@ body
 {
     text-decoration: underline;
 }
+/*linkedin*/
+#home-text h3 img
+{
+    height: 1.5vh;
+    width: 1.5vw;
+    border-radius: 10px;
 
-.fa-linkedin {  
-    background: #007bb5;  
-    color: white;  
-  }  
+}
 
 
 
