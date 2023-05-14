@@ -77,7 +77,6 @@ body
 {
     font-size: 8vw;
 
-    color: black;
     margin-top: 3vh;
     text-shadow: 0.1% 4% 4px;
 }
@@ -96,7 +95,6 @@ body
 {
     font-size: 2.5vw;
     padding: 1vh 0;
-    color: black;
     margin-top: 2%;
     position: relative;
 }
