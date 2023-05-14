@@ -389,7 +389,15 @@ body
     display: block; 
 }
 
+#portfolio a:link
+{
+    color: black;
+}
 
+#portfolio a:visited
+{
+    color: black;
+}
 
 .portfolioSubtitle 
 {
