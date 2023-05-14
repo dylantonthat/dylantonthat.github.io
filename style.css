@@ -322,10 +322,10 @@ nav ul a:hover
     width: 50%; 
 
     background-color: #74c9ed;
-    margin-bottom: 2vh;
     margin-left:5vw;
 
     border-radius: 5px;
+    padding-bottom: 5vh;
 
 } 
 .CPlusPlus p
@@ -393,7 +393,7 @@ nav ul a:hover
 
 .portfolioSubtitle p
 {
-    margin-top: 5vw;
+    margin-top: 7vw;
     font-size: 1vw;
 }
 
