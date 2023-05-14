@@ -270,6 +270,7 @@ nav ul a:hover
 .Java p
 {
     width: 75%;
+    font-size: 3vh;
     text-align: center;
 }
 
@@ -290,6 +291,7 @@ nav ul a:hover
 .Python p
 {
     width: 60%;
+    font-size: 3vh;
     text-align: center;
 }
 
@@ -310,6 +312,7 @@ nav ul a:hover
 .HTMLCSS p
 {
     width: 60%;
+    font-size: 3vh;
     text-align: center;
 }
 
@@ -328,6 +331,7 @@ nav ul a:hover
 .CPlusPlus p
 {
     width: 50%;
+    font-size: 3vh;
     text-align: center;
 }
 
