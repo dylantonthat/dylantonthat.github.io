@@ -234,9 +234,9 @@ nav ul a:hover
 {
     margin-left: 5vw;
     margin-bottom: 5vh;
+    padding-bottom: 5vh;
 
     width: 75%;
-    height: auto;
     
     align-items: center;
     background: whitesmoke;
