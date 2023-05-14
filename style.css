@@ -152,6 +152,11 @@ body
     text-decoration: underline;
 }
 
+.fa-linkedin {  
+    background: #007bb5;  
+    color: white;  
+  }  
+
 
 
 
@@ -368,6 +373,16 @@ body
     width: 40%;
 }
 
+#portfolio a:link
+{
+    color: black;
+}
+
+#portfolio a:visited
+{
+    color: black;
+}
+
 #portfolio img
 {
     left: 5vw;
@@ -382,15 +397,6 @@ body
     display: block; 
 }
 
-#portfolio a:link
-{
-    color: black;
-}
-
-#portfolio a:visited
-{
-    color: black;
-}
 
 .portfolioSubtitle 
 {
