@@ -365,6 +365,7 @@ body
     justify-content: center;
 }
 
+/*
 #portfolio a 
 {
     left: 5vw;
@@ -373,11 +374,8 @@ body
     margin: 5vw;
     width: 40%;
 }
+*/
 
-#portfolio a:link
-{
-    color: black;
-}
 
 #portfolio a:visited
 {
