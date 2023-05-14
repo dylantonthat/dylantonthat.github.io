@@ -267,12 +267,12 @@ nav ul a:hover
 
     border-radius: 5px;
 } 
-
 .Java p
 {
     width: 75%;
-    text-align:center;
+    text-align: center;
 }
+
 .Python 
 {
     font-size: 2vw;
@@ -287,6 +287,12 @@ nav ul a:hover
     border-radius: 5px;
 
 } 
+.Python p
+{
+    width: 60%;
+    text-align: center;
+}
+
 .HTMLCSS
 {
     font-size: 2vw;
@@ -301,6 +307,12 @@ nav ul a:hover
     border-radius: 5px;
 
 } 
+.HTMLCSS p
+{
+    width: 60%;
+    text-align: center;
+}
+
 .CPlusPlus
 {
     font-size: 2vw;
@@ -313,6 +325,11 @@ nav ul a:hover
     border-radius: 5px;
 
 } 
+.CPlusPlus p
+{
+    width: 50%;
+    text-align: center;
+}
 
 
 
