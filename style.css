@@ -37,7 +37,6 @@ nav
     width: 100vw;
     margin: auto;
     padding: 2vh 2vw;
-
 }
 
 nav ul 
@@ -50,7 +49,6 @@ nav ul
     
     text-align: center;
     justify-content: center;
-
 }
 
 /*hover over (home, about, resume, etc.) to get underline*/
@@ -127,7 +125,6 @@ nav ul a:hover
     font-size: 1.5vw;
 
     margin-bottom: 15vh;
-
 }
 .linkedin:hover
 {
@@ -210,7 +207,6 @@ nav ul a:hover
     padding: 1vh 0; 
     color: black; 
     font-size: 5vh;
-
 }
 
 .skillsSubtitle 
@@ -237,15 +233,16 @@ nav ul a:hover
 .skills-background
 {
     margin-left: 5vw;
+    margin-bottom: 5vh;
+
     width: 75%;
+    height: auto;
+    
     align-items: center;
     background: whitesmoke;
     border-radius: 15px;
     font-size: 5vh;
     box-shadow: 1vh 1vh 3vh #b3b3b3;
-    margin-bottom: 5vh;
-
-
 }
 
 .skills-background p
@@ -270,7 +267,7 @@ nav ul a:hover
 .Java p
 {
     width: 75%;
-    font-size: 3vh;
+    font-size: 4vh;
     text-align: center;
 }
 
@@ -286,12 +283,11 @@ nav ul a:hover
     margin-left: 5vw;
 
     border-radius: 5px;
-
 } 
 .Python p
 {
     width: 60%;
-    font-size: 3vh;
+    font-size: 4vh;
     text-align: center;
 }
 
@@ -307,12 +303,11 @@ nav ul a:hover
     margin-left:5vw;
 
     border-radius: 5px;
-
 } 
 .HTMLCSS p
 {
     width: 60%;
-    font-size: 3vh;
+    font-size: 4vh;
     text-align: center;
 }
 
@@ -325,13 +320,11 @@ nav ul a:hover
     margin-left:5vw;
 
     border-radius: 5px;
-    padding-bottom: 5vh;
-
 } 
 .CPlusPlus p
 {
     width: 50%;
-    font-size: 3vh;
+    font-size: 4vh;
     text-align: center;
 }
 
