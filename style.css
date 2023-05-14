@@ -243,7 +243,7 @@ nav ul a:hover
     border-radius: 15px;
     font-size: 5vh;
     box-shadow: 1vh 1vh 3vh #b3b3b3;
-    margin-bottom: 2vh;
+    margin-bottom: 5vh;
 
 
 }
@@ -298,7 +298,9 @@ nav ul a:hover
 .CPlusPlus
 {
     font-size: 2vw;
-    width: 50%; background-color: #74c9ed;
+    width: 50%; 
+
+    background-color: #74c9ed;
     margin-bottom: 2vh;
     margin-left:5vw;
 
