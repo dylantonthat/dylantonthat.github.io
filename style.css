@@ -261,6 +261,7 @@ body
     padding: 5vh 0;
 
     width: 75%;
+    height: 80%;
     
     align-items: center;
     background: whitesmoke;
@@ -426,7 +427,7 @@ body
 
 /* Footer */
 
-#site-footer
+.site-footer
 {
     background: #143156;
     font-size: 1vw;
