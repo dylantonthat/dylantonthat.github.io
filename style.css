@@ -426,7 +426,7 @@ body
 
 /* Footer */
 
-.site-footer
+#site-footer
 {
     background: #143156;
     font-size: 1vw;
@@ -438,8 +438,6 @@ body
 
 }
 
-
-
 .footer-content
 {
     display: flex;
@@ -447,5 +445,17 @@ body
     justify-content: center;
 
 }
+
+.footer-content a:link
+{
+    color: white;
+}
+
+.footer-content a:visited 
+{
+    color: white;
+}
+
+
 
 
