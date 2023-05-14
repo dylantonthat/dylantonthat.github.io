@@ -218,11 +218,6 @@ nav ul a:hover
     padding: 1vh 0;
 }
 
-.skillsSubtitle style
-{
-    padding-top: 10vh;
-    padding-bottom: 10vh;
-}
 
 .skillsSubtitle span
 {
@@ -240,7 +235,7 @@ nav ul a:hover
 {
     margin-left: 5vw;
     margin-bottom: 5vh;
-    padding-bottom: 5vh;
+    padding: 5vh 0;
 
     width: 75%;
     
