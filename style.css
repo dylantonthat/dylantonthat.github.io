@@ -218,6 +218,12 @@ nav ul a:hover
     padding: 1vh 0;
 }
 
+.skillsSubtitle style
+{
+    padding-top: 10vh;
+    padding-bottom: 10vh;
+}
+
 .skillsSubtitle span
 {
     color:#74c9ed;
@@ -331,8 +337,6 @@ nav ul a:hover
 
 
 /*My Portfolio */
-
-
 #portfolio
 {
     padding: 2vh 0;
