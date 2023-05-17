@@ -216,6 +216,7 @@ body
 
 .aboutMe-Description p
 {
+    margin-top: 2vw;
     flex-basis: 60vw;
     line-height: 350%;
     padding-bottom: 6vh;
