@@ -162,7 +162,6 @@ body
 
 
 /* About Me */
-
 #about
 {
     margin-top: 5vh;
@@ -190,7 +189,7 @@ body
     margin-top: 3vh;
     margin-bottom: 3vh;
     margin-right: 3vh;
-    height: 75vh;
+    height: 50vh;
     width: 40vw;
 
     border-radius: 40px;
