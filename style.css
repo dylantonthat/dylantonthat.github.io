@@ -39,7 +39,7 @@ body
     padding: 2vh 2vw;
 }
 
-#header ul 
+#header ul
 {
     text-decoration: none;
     color: white;
@@ -58,11 +58,11 @@ body
     color:white;
     font-weight: bold;
 }
-  
+
 #header ul a:hover
 {
     text-decoration: underline;
-} 
+}
 
 
 
@@ -100,7 +100,7 @@ body
 }
 
 #home-text h3
-{  
+{
     margin-top: 2vh;
     padding: 1vh 0;
     font-size: 1.5vw;
@@ -111,7 +111,7 @@ body
     color: black;
 }
 
-#home-text h3 a:visited 
+#home-text h3 a:visited
 {
     color: black;
 }
@@ -130,7 +130,7 @@ body
     color: black;
 }
 
-#home-text h4 a:visited 
+#home-text h4 a:visited
 {
     color: black;
 }
@@ -179,7 +179,7 @@ body
 .aboutMe-image
 {
     flex-basis: 35vw;
-    float: left; 
+    float: left;
     margin-bottom: 0.25vh;
     margin-top: 0.25vh;
 }
@@ -224,15 +224,15 @@ body
 
 
 /*My Skills*/
-#skills 
+#skills
 {
-    text-align: left; 
-    padding: 5vh 0; 
-    color: black; 
+    text-align: left;
+    padding: 5vh 0;
+    color: black;
     font-size: 5vh;
 }
 
-.skillsSubtitle 
+.skillsSubtitle
 {
     margin-left: 5vw;
     font-size: 3vw;
@@ -272,21 +272,21 @@ body
 {
     margin-left: 5vw;
 }
-  
 
-.Java 
+
+.Java
 {
     font-size: 2vw;
 
     text-align: 75vw;
-    width: 75%; 
+    width: 75%;
 
     background-color: #74c9ed;
     margin-bottom: 2vh;
     margin-left:5vw;
 
     border-radius: 5px;
-} 
+}
 .Java p
 {
     width: 75%;
@@ -294,19 +294,19 @@ body
     text-align: center;
 }
 
-.Python 
+.Python
 {
     font-size: 2vw;
     
     text-align: 60vw;
-    width: 60%; 
+    width: 60%;
     
     background-color: #74c9ed;
     margin-bottom: 2vh;
     margin-left: 5vw;
 
     border-radius: 5px;
-} 
+}
 .Python p
 {
     width: 60%;
@@ -319,14 +319,14 @@ body
     font-size: 2vw;
 
     text-align: 60vw;
-    width: 60%; 
+    width: 60%;
 
     background-color: #74c9ed;
     margin-bottom: 2vh;
     margin-left:5vw;
 
     border-radius: 5px;
-} 
+}
 .HTMLCSS p
 {
     width: 60%;
@@ -337,13 +337,13 @@ body
 .CPlusPlus
 {
     font-size: 2vw;
-    width: 50%; 
+    width: 50%;
 
     background-color: #74c9ed;
     margin-left:5vw;
 
     border-radius: 5px;
-} 
+}
 .CPlusPlus p
 {
     width: 50%;
@@ -403,8 +403,10 @@ body
 
 .portfolioSubtitle
 {
-    padding: 5% 5%;
+    margin-left: 5vw;
     font-size: 3vw;
+    margin-bottom: 5vh;
+    padding: 1vh 0;
 }
 
 .portfolioSubtitle span
