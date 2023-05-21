@@ -356,13 +356,10 @@ body
 /*My Portfolio */
 #portfolio
 {
+    text-align: left;
     padding: 5vh 0;
-    display: flex;
-
-    line-height: 200%;
-
-    align-content: center;
-    justify-content: center;
+    color: black;
+    font-size: 5vh;
 }
 
 
