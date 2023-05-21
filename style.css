@@ -391,7 +391,7 @@ body
 {
     left: 5vw;
     border-radius: 10px;
-    align-items: center;
+    align-items: right;
     margin-left: 5vw;
     margin-right: 5vw;
     width: 70%;
@@ -426,7 +426,7 @@ body
 .portfolioHeading:hover
 {
     text-decoration: underline;
-} 
+}
 
 
 /* Footer */
@@ -456,7 +456,7 @@ body
     color: white;
 }
 
-.footer-content a:visited 
+.footer-content a:visited
 {
     color: white;
 }
