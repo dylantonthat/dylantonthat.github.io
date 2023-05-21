@@ -69,13 +69,16 @@ body
 /*home*/
 #home-text
 {
+    width: 100vw;
+    margin: auto;
+
     margin-bottom: 10vh;
     text-align: center;
 }
 
 #home-text h1
 {
-    font-size: 8vw;
+    font-size: auto;
 
     margin-top: 3vh;
     text-shadow: 0.1% 4% 4px;
