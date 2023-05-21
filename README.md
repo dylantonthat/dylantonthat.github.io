@@ -12,6 +12,6 @@ This was a website built to showcase my web development and technical skills.
 
 * HTML
 * CSS
-* Git
-* GitHub
+* BootStrap
+* GitHub Desktop
 
