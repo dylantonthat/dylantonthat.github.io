@@ -402,7 +402,7 @@ body
 }
 
 
-.portfolioSubtitle 
+.portfolioSubtitle
 {
     padding: 5% 5%;
     font-size: 3vw;
@@ -416,12 +416,6 @@ body
 .portfolioSubtitle span-2
 {
     color:#143156;
-}
-
-.portfolioSubtitle p
-{
-    margin-top: 7vw;
-    font-size: 1vw;
 }
 
 .portfolioHeading
