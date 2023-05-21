@@ -1,4 +1,4 @@
-My Own Portfolio Website
+#My Own Portfolio Website
 
 
 This was a website built to showcase my web development and technical skills.
@@ -11,4 +11,4 @@ This was a website built to showcase my web development and technical skills.
 * CSS3
 * Git
 * GitHub
-* 
+
