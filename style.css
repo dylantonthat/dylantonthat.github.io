@@ -360,16 +360,16 @@ body
     padding: 5vh 0;
     color: black;
     font-size: 5vh;
+
 }
 
 
-.project a
+.project
 {
-    left: 5vw;
-    align-items: center;
-    text-align: wrap;
-    margin: 5vw;
-    width: 75%;
+    width: 90%;
+    margin-left:5%;
+    margin-top: 2.5%;
+
 }
 
 
