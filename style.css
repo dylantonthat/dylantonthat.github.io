@@ -366,13 +366,13 @@ body
 }
 
 
-.project a 
+.project a
 {
     left: 5vw;
     align-items: center;
     text-align: wrap;
     margin: 5vw;
-    width: 40%;
+    width: 75%;
 }
 
 
@@ -398,7 +398,7 @@ body
     height: auto;
     box-shadow: 1vh 1vh 3vh #b3b3b3;
 
-    display: block; 
+    display: block;
 }
 
 
