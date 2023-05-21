@@ -1,6 +1,6 @@
 # My Own Portfolio Website
 
-Visit my page [here](https://dylantonthat.github.io)
+Visit my Page [HERE](https://dylantonthat.github.io)
 
 
 
