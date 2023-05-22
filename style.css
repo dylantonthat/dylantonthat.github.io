@@ -135,6 +135,27 @@ body
 
 
 
+.h4
+{
+    margin-left: 5vw;
+    margin-bottom: 5vh;
+    padding: 1vh 0;
+}
+
+
+.h4 span
+{
+    color: #74c9ed;
+}
+
+.h4 span-2
+{
+    color: #143156;
+}
+
+
+
+
 
 /* About Me */
 #about
