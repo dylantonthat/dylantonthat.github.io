@@ -162,7 +162,7 @@ body
 {
     margin: 3vh 0;
     height: 50vh;
-    width: 50vw;
+    width: 30vw;
 
     border-radius: 40px;
     box-shadow: 1vh 1vh 3vh #b3b3b3;
@@ -410,7 +410,7 @@ body
     margin: auto;
     padding: 2vh 2vw;
     height: 10%;
-    width: 100%;
+    width: 100vw;
 
 }
 
