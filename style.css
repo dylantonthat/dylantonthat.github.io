@@ -93,21 +93,20 @@ body
 }
 
 
-#home-text h4
+#home-text h6
 {
-    margin-top: 2vh;
     padding: 1vh 0;
     font-size: 1.5vw;
 
     margin-bottom: 15vh;
 }
 
-#home-text h4 a:link
+#home-text h6 a:link
 {
     color: black;
 }
 
-#home-text h4 a:visited
+#home-text h6 a:visited
 {
     color: black;
 }
