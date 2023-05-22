@@ -154,7 +154,6 @@ body
 
 .aboutMe-image
 {
-    flex-basis: 35vw;
     float: center;
     margin: 0.25vh, 0;
 }
@@ -162,8 +161,8 @@ body
 .aboutMe-image img
 {
     margin: 3vh 0;
-    height: auto;
-    width: auto;
+    height: 50vh;
+    width: 50vw;
 
     border-radius: 40px;
     box-shadow: 1vh 1vh 3vh #b3b3b3;
@@ -188,6 +187,7 @@ body
 
 .aboutMe-Description p
 {
+    float: center;
     margin-top: 2vw;
     flex-basis: 60vw;
     line-height: 350%;
