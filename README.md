@@ -10,8 +10,8 @@ This was a website built to showcase my web development and technical skills.
 
 ### Technologies Used
 
-* HTML
-* CSS
+* HTML5
+* CSS3
 * JavaScript
 * BootStrap
 * GitHub Desktop
