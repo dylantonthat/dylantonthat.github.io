@@ -13,6 +13,6 @@ This was a website built to showcase my web development and technical skills.
 * HTML
 * CSS
 * JavaScript
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
+* BootStrap
 * GitHub Desktop
 
