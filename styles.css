@@ -1,8 +1,8 @@
 /*!
- * Start Bootstrap - Resume v4.0.0-beta.2 (https://startbootstrap.com/template-overviews/resume)
- * Copyright 2013-2017 Start Bootstrap
- * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-resume/blob/master/LICENSE)
- */
+* Start Bootstrap - Resume v4.0.0-beta.2 (https://startbootstrap.com/template-overviews/resume)
+* Copyright 2013-2017 Start Bootstrap
+* Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-resume/blob/master/LICENSE)
+*/
 
 body
 {
@@ -53,13 +53,22 @@ h2
 }
 
 
+.row>*
+{
+  flex-shrink: 0;
+  width: 100%;
+  max-width: 100%;
+  padding-right: calc(var(--bs-gutter-x) * .5);
+  padding-left: calc(var(--bs-gutter-x) * .5);
+  margin-top: var(--bs-gutter-y);
+}
 
 
 .subheading
 {
   text-transform: uppercase;
   font-weight: 500;
-  font-family: 'Saira Extra Condensed', serif;
+  font-family: 'Roboto', serif;
   text-align: center;
   font-size: 2rem;
 }
@@ -96,8 +105,7 @@ h2
 
 .button
 {
-  color: #393646
-  ;
+  color: #393646;
 }
 
 #contact
@@ -105,6 +113,28 @@ h2
   text-align: center;
 }
 
+#contact input
+{
+  width: 100%;
+  padding: 0.5rem;
+  margin: 1rem 0;
+  float: center;
+
+}
+#contact textarea
+{
+  width: 100%;
+  padding: 0.5em;
+  margin: 1rem 0;
+  resize: none;
+  float: center;
+
+  height: 200px;
+}
+
+
+
+/*Side Navigation Bar*/
 #sideNav .navbar-nav .nav-item .nav-link {
   font-weight: 600;
   text-transform: uppercase; }
