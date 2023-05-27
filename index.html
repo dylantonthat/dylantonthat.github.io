@@ -1,190 +1,273 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
 
-
-    <!-- Import BootStrap -->
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.4.1/dist/css/bootstrap-responsive.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
-
-    
     <title>Dylan Ton-That</title>
-    <link rel = "stylesheet" href = "style.css">
-</head>
-<body>
-<!---- HEADERS AND LANDING TEXT AND IMAGES, anchors made for (header, about, education, etc.) to allow for autoscroll when clicking ------->
-<div id = "header">
-    <ul>
-        <a href="#home">Home</a>
-        &nbsp; &nbsp;
 
-        <a href="#about">About</a></li>
-        &nbsp; &nbsp;
+    <!-- Bootstrap core CSS -->
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
-        <a href ="#skills">Skills</a>
-        &nbsp; &nbsp;
+    <!-- Google Fonts, Font-Awesome for Email, Linkedin, Github Icons, Devicons for Language and Framework Icons -->
+    <link href="https://fonts.googleapis.com/css?family=Saira+Extra+Condensed:100,200,300,400,500,600,700,800,900" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i" rel="stylesheet">
+    <link href="vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+    <link href="vendor/devicons/css/devicons.min.css" rel="stylesheet">
+    <link href="vendor/simple-line-icons/css/simple-line-icons.css" rel="stylesheet">
 
-        <a href="#portfolio">Portfolio</a>
-        &nbsp; &nbsp;
+    <!-- Custom styles for this template -->
+    <link href="styles.css" rel="stylesheet">
 
-        <a href ="resume.pdf">Resume</a>
-        &nbsp; &nbsp;
+  </head>
 
-    </ul>
-</div>
+  <!-- SIDE NAVIGATION BAR + BURGER -->
+  <body id="page-top">
+    <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
+      <a class="navbar-brand js-scroll-trigger" href="#page-top">
+        <span class="d-block d-lg-none">Dylan Ton-That</span>
+        <span class="d-none d-lg-block">
+          <img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="img/aboutMe.jpg" alt="">
+        </span>
+      </a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav">
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="#aboutMe">About Me</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="#skills">Skills</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="#portfolio">Portfolio</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="#resume">Resume</a>
+          </li>
+        </ul>
+      </div>
+    </nav>
 
-
-
-<!---- QUICK LANDING HEADER TEXT CODE------->
-<div id = "home-text">
-    <h1>
-        <span>Dylan</span> <span-2>Ton-That</span-2>
-    </h1>
-    <h4>
-        Newark | Parsippany
-    </h4>
-
-    <h6>
-        <a href = "mailto: dylantonthat107@gmail.com" style="text-decoration:none;">
-            <ion-icon name="mail-outline"></ion-icon>
-            <span class = "email"> dylantonthat107@gmail.com </span>
-        </a>
-    </h6>
-    <h6>
-        <img src = "/images/linkedin.png">
-        <a href = "https://www.linkedin.com/in/dylan-ton-that/" style="text-decoration:none;">
-            <span class = "linkedin"> Linkedin </span>
-        </a>
-        
-    </h6>
-
-    <h6>
-        <a href = "https://github.com/dylantonthat" style="text-decoration:none;">
-            <ion-icon name="logo-github"></ion-icon>
-            <span class = "github"> Github </span>
-        </a>
-    </h6>
-    <br>
-    
-</div>
-
-
-
-<div class = "divider">
-    <hr>
-</div>
-<!---- ABOUT SECTION CODE=------->
-<div id = "about">
-    <div class = "container">
-        <div class = "row">
+    <div class="container-fluid p-0">
+      <section class="website-section p-3 p-lg-5 d-flex d-column" id="aboutMe">
+        <div class="heading my-auto">
+          <h1 class="mb-0">Dylan
+            <span class="text-primary">Ton-That</span>
+          </h1>
+          <div class="subheading mb-5">Newark | Parsippany</div>
+          <p class="mb-5 text-center" >
+            I am an accredited junior studying Computer Science in the Albert Dorman Honors
+            College at the New Jersey Institute of Technology.
+            <br><br>
+            At this time, I am seeking internships in the line of software engineering as I seek to further hone my current abilities,
+            become familiar with industry practices,
             <br>
-            <div class = "aboutMe-Description">
-                <h4>
-                    <span>About </span> <span-2>Me</span-2>
-                </h4>
-                <div class = "aboutMe-image">
-                    <img src = "/images/aboutMe.jpg">
-                </div>
-                <p>
-                    My name is Dylan Ton-That. I am currently an accredited junior studying Computer Science in the Albert Dorman Honors 
-                    College at the New Jersey Institute of Technology.
-                    <br><br>
-                    I am currently seeking internships in the line of software engineering as I seek to further hone my current abilities,
-                    become familiar with industry practices, and am eager to soak in as much related knowledge as I can.
-                    <br><br>
-                    Feel free to contact me regarding any inquiries!
-                    <br><br>
-                </p>
-            </div>
+            and am eager to soak in as much related knowledge as I can.
+            <br><br>
+            Feel free to contact me below regarding any inquiries!
+            <br><br>
+          </p>
+
+          <!--ICONS -->
+          <ul class="list-inline list-social-icons mb-0">
+            <li class="list-inline-item">
+              <a href="mailto: dylantonthat107@gmail.com" style="text-decoration:none;">
+                <span class="fa-stack fa-lg">
+                  <i class="fa fa-circle fa-stack-2x"></i>
+                  <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
+                </span>
+              </a>
+            </li>
+            <li class="list-inline-item">
+              <a href="https://www.linkedin.com/in/dylan-ton-that/" style="text-decoration:none;">
+                <span class="fa-stack fa-lg">
+                  <i class="fa fa-circle fa-stack-2x"></i>
+                  <i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
+                </span>
+              </a>
+            </li>
+            <li class="list-inline-item">
+              <a href="https://github.com/dylantonthat" style="text-decoration:none;">
+                <span class="fa-stack fa-lg">
+                  <i class="fa fa-circle fa-stack-2x"></i>
+                  <i class="fa fa-github fa-stack-1x fa-inverse"></i>
+                </span>
+              </a>
+            </li>
+          </ul>
         </div>
+      </section>
+
+
+      <section class="website-section p-3 p-lg-5 d-flex flex-column" id="skills">
+        <div class="my-auto">
+          <h2 class="mb-5">Skills</h2>
+
+            <div class="p-5"  SkillBar>
+              <div class = "mb-5">
+                  <label>Java</label>
+                  <div class="progress">
+                      <div class="progress-bar bg-info" style = "width: 80%" role="progressbar" aria-valuenow="80"
+                      aria-valuemin="0" aria-valuemax="100">
+                      Very Proficient
+                      </div>
+                  </div>
+              </div>
+
+              <div class = "mb-5">
+                  <label>Python</label>
+                  <div class="progress">
+                      <div class="progress-bar bg-info" style = "width: 80%" role="progressbar" aria-valuenow="80"
+                      aria-valuemin="0" aria-valuemax="100">
+                      Very Proficient
+                      </div>
+                  </div>
+              </div>
+
+              <div class = "mb-5">
+                  <label>HTML/CSS</label>
+                  <div class="progress">
+                      <div class="progress-bar bg-info" style = "width: 70%" role="progressbar" aria-valuenow="80"
+                      aria-valuemin="0" aria-valuemax="100">
+                      Proficient
+                      </div>
+                  </div>
+              </div>
+
+              <div class = "mb-5">
+                  <label>JavaScript</label>
+                  <div class="progress">
+                      <div class="progress-bar bg-info" style = "width: 50%" role="progressbar" aria-valuenow="80"
+                      aria-valuemin="0" aria-valuemax="100">
+                      Satisfactory
+                      </div>
+                  </div>
+              </div>
+
+              <div class = "mb-5">
+                  <label>C++</label>
+                  <div class="progress">
+                      <div class="progress-bar bg-info" style = "width: 50%" role="progressbar" aria-valuenow="80"
+                      aria-valuemin="0" aria-valuemax="100">
+                      Satisfactory
+                      </div>
+                  </div>
+              </div>
+          </div>
+          <!-- Skills Icons for Languages/Frameworks -->
+          <div class="subheading mb-3">My Tech Stack:</div>
+          <ul class="list-inline list-icons">
+            <li class="list-inline-item">
+              <i class="devicons devicons-java"></i>
+            </li>
+            <li class="list-inline-item">
+              <i class="devicons devicons-python"></i>
+            </li>
+            <li class="list-inline-item">
+              <i class="devicons devicons-c"></i>
+            </li>
+            <li class="list-inline-item">
+              <i class="devicons devicons-html5"></i>
+            </li>
+            <li class="list-inline-item">
+              <i class="devicons devicons-css3"></i>
+            </li>
+            <li class="list-inline-item">
+              <i class="devicons devicons-javascript"></i>
+            </li>
+            <li class="list-inline-item">
+              <i class="devicons devicons-jquery"></i>
+            </li>
+            <li class="list-inline-item">
+              <i class="devicons devicons-bootstrap"></i>
+            </li>
+            <li class="list-inline-item">
+              <i class="devicons devicons-gulp"></i>
+            </li>
+          </ul>
+        </div>
+      </section>
+
+      <section class="website-section p-3 p-lg-5 d-flex flex-column" id="portfolio">
+        <h2 class="mb-5">Portfolio</h2>
+        <div class="left-image-post">
+          <div class="row">
+            <div class="col-md-6 p-5">
+              <div class="right-image img-fluid">
+                <img class="rounded d-block w-100" src="img/ProjectRegularInput.PNG" alt="" />
+              </div>
+            </div>
+            <div class="col-md-6 p-5">
+              <div class="left-text">
+                <h4>NBA Player Statistics Engine</h4>
+                <p>
+                  This is a Python side project that I made due to my love for the NBA as well as my passion for programming.
+                  In terms of the interface, I utilized CustomTkInter, which can be described as a prettified Tkinter.
+                  Using the BeautifulSoup4 library, I was able to scrap the per-game data of individual NBA players, whose names
+                  the users can enter into the application, to return the players' image and points, rebounds, and assists a game.
+                  
+                </p>
+                <div class="button">
+                  <a class="btn btn-dark" href="https://github.com/dylantonthat/NBAPlayerStatisticsEngine" role="button">Learn More</a>
+                </div>
+              </div>
+            </div>
+            
+
+            <div class="col-md-6 p-5">
+              <div class="left-text">
+                <h4>Maze Game</h4>
+                <p>
+                  This was originally a project I made for my Data Structures and Algorithms class, which I eventually
+                  modified with Java's Swing framework to create a simple interactive game. This application at the time
+                  consisted of methods used to read the maze file and automacilly find a solution (if applicable).
+                  Upon reconstruction, the user is now able to utilize the interface to pick a maze difficulty, attempt
+                  to solve it, and if not, can view the solution with a click of a button.
+                </p>
+                <div class="button">
+                  <a class="btn btn-dark" href="https://github.com/dylantonthat/NBAPlayerStatisticsEngine" role="button">Learn More</a>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-6 p-5">
+              <div class="right-image img-fluid">
+                <img class="rounded d-block w-100" src="img/MazeGameHard.PNG" alt="" />
+              </div>
+            </div>
+            
+          </div>
+        </div>
+        </section>
+
+      <section class="website-section p-3 p-lg-5 d-flex flex-column" id="resume">
+        <div class="my-auto">
+          <h2 class="mb-5">Resume</h2>
+          <div class="resume-item d-flex flex-column flex-md-row">
+            <embed src="resume.pdf" style="min-height:100vh; width:100%"/>
+          </div>
+        </div>
+      </section>
     </div>
-</div>
+        
+
+        
 
 
-<div class = "divider">
-    <hr>
-</div>
-<!-- SKILLS SECTION CODE-->
-<div id = "skills">
-    <h4>
-        <span>My </span> <span-2>Skills</span-2>
-    </h4>
-    
-    <div class="skills-background">
-        <p>Java</p>
-            <div class="Java"><p>Very Proficient</p></div>
+    <!-- Bootstrap core JavaScript -->
+    <script src="vendor/jquery/jquery.min.js"></script>
+    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
 
-        <p>Python</p>
-            <div class="Python"><p>Proficient</p></div>
+    <!-- Plugin JavaScript -->
+    <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
 
-        <p>HTML/CSS</p>
-            <div class="HTMLCSS"><p>Proficient</p></div>
+    <!-- Custom scripts for this template -->
+    <script src="js/resume.js"></script>
 
-        <p>C++</p>
-            <div class="CPlusPlus"><p>Satisfactory</p></div>
-    </div>
-</div>
-    
+  </body>
 
-
-
-<div class = "divider">
-    <hr>
-</div>
-<!-- portfolio part of website, includes projects -->
-<div id="portfolio">
-    <h4>
-        <span>My </span> <span-2>Portfolio</span-2>
-    </h4>
-    <br>
-    
-    <!--
-    <div class="project">
-        <br>
-        <img src = "/images/blackjackPicture.png">
-        <a href = "https://github.com/dylantonthat/OnePlayerBlackjack" style="text-decoration:solid">
-            <span class = "portfolioHeading"> One Player BlackJack </span>
-        </a>
-        <br>
-    </div>
-    -->
-    <br><br><br>
-</div>
-
-
-<!-- for the bottom footer of the website-->
-
-<footer class="site-footer">
-    <div class = "footer-content">
-        <a href = "mailto: dylantonthat107@gmail.com" style="text-decoration:none;">
-            <ion-icon name="mail-outline"></ion-icon>
-            <span class = "email"> dylantonthat107@gmail.com </span>
-            &nbsp; &nbsp;
-        </a>
-            <a href = "https://www.linkedin.com/in/dylan-ton-that/" style="text-decoration:none;">
-                <ion-icon name="logo-linkedin"></ion-icon>
-                <span class = "linkedin"> Linkedin </span>
-                &nbsp; &nbsp;
-            </a>
-            <a href = "https://github.com/dylantonthat" style="text-decoration:none;">
-                <ion-icon name="logo-github"></ion-icon>
-                <span class = "github"> Github </span>
-                &nbsp; &nbsp;
-            </a>
-        </p>
-    </div>
-</footer>
-
-
-
-
-<!-- to allow for mail, linkedin, github icons-->
-<script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
-<script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
-
-</body>
 </html>
-
-
