@@ -155,7 +155,7 @@ h2
   font-weight: 600;
   text-transform: uppercase; }
 
-@media (min-width: 992px) {
+@media (min-width: 768px) {
   #sideNav {
     text-align: center;
     position: fixed;
