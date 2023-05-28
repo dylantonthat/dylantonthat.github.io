@@ -25,6 +25,23 @@ body
   {
     margin-left: 3rem;
   }
+  /*sizing the resume */
+  #resumeDoc object
+  {
+    height:60rem;
+    width:45rem;
+    justify-content: center;
+  }
+}
+
+@media (max-width: 992px)
+{
+  /*sizing the resume */
+  #resumeDoc object
+  {
+    height:25rem;
+    width:45rem;
+  }
 }
 
 h1,
@@ -178,11 +195,18 @@ section.website-section {
   section.website-section .resume-item .resume-date {
     min-width: none; }
 
-@media (min-width: 768px) {
-  section.website-section {
-    min-height: 100vh; }
-    section.website-section .resume-item .resume-date {
-      min-width: 18rem; } }
+@media (min-width: 768px)
+{
+  section.website-section
+  {
+    min-height: 100vh;
+  }
+  section.website-section .resume-item .resume-date
+  {
+    min-width: 18rem;
+  }
+}
+
 
 @media (min-width: 992px) {
   section.website-section {
