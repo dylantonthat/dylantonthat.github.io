@@ -155,7 +155,7 @@ h2
   font-weight: 600;
   text-transform: uppercase; }
 
-@media (min-width: 768px) {
+@media (min-width: 992px) {
   #sideNav {
     text-align: center;
     position: fixed;
@@ -194,7 +194,7 @@ section.website-section {
   section.website-section .resume-item .resume-date {
     min-width: none; }
 
-@media (min-width: 768px)
+@media (min-width: 992px)
 {
   section.website-section
   {
