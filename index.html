@@ -426,21 +426,36 @@
                         <form action="https://api.web3forms.com/submit"
                             method="POST">
                             <input type="hidden" name="access_key"
-                                value="a9f2127b-8a93-4a25-a9ff-f26366f1b46d">
-                            <input type="text" name="name" required
-                                placeholder="Name">
-                            <input type="email" name="email" required
-                                placeholder="Email">
-                            <textarea name="message" required
-                                placeholder="Questions/Comments"></textarea>
-                            <button class="btn btn-dark" type="submit">
-                                Submit
-                            </button>
-                        </form>
-                        <script src="https://web3forms.com/client/script.js"
-                            async defer></script>
-
-                    </div>
+                            value="a9f2127b-8a93-4a25-a9ff-f26366f1b46d">
+                        <div class="row m-auto">
+                            <div class="col-sm-12 px-2">
+                                <input type="text" name="name" required
+                                    placeholder="Name *">
+                                    
+                            </div>
+                        </div>
+                        <div class="row m-auto">
+                            <div class="col-sm-6 px-2">
+                                <input type="email" name="email" required
+                                    placeholder="Email *">
+                            </div>
+                            <div class="col-sm-6 px-2">
+                                <input type="phone" name="phone"
+                                    placeholder="Phone #">
+                            </div>
+                        </div>
+                        <div class="row m-auto">
+                            <div class="col-sm-12 px-2">
+                                <textarea name="message" required
+                                placeholder="Questions/Comments *"></textarea>
+                                <button class="btn btn-dark" type="submit">
+                                    Submit
+                                </button>
+                            </div>
+                        </div>
+                    </form>
+                    <script src="https://web3forms.com/client/script.js"
+                        async defer></script>
                 </div>
             </section>
         </div>
